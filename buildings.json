@@ -1,0 +1,3116 @@
+[
+    {
+        "building_id": "348",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/348.jpg",
+        "lat": "38.9860612",
+        "lng": "-76.9552482403172",
+        "name": "UMUC Hotel"
+    },
+    {
+        "building_id": "345",
+        "code": "ICC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/345.jpg",
+        "lat": "38.9860659",
+        "lng": "-76.9540770364453",
+        "name": "UMUC Inn and Conference Center (ICC)"
+    },
+    {
+        "building_id": "346",
+        "code": "SFSC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/346.jpg",
+        "lat": "38.9866594",
+        "lng": "-76.9533396302397",
+        "name": "UMUC Student and Faculty Services Center"
+    },
+    {
+        "building_id": "347",
+        "code": "PGUC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/347.jpg",
+        "lat": "38.98699405",
+        "lng": "-76.9544177389556",
+        "name": "UMUC/University College Garage (PGUC)"
+    },
+    {
+        "building_id": "179",
+        "code": "ULG",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/179.jpg",
+        "lat": "38.98840855",
+        "lng": "-76.9458968038597",
+        "name": "Union Lane Parking Garage"
+    },
+    {
+        "building_id": "C100",
+        "code": "",
+        "lat": "38.98425975",
+        "lng": "-76.95374930076",
+        "name": "University Baptist Church"
+    },
+    {
+        "building_id": "288",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/288.jpg",
+        "lat": "38.98514415",
+        "lng": "-76.9562455643617",
+        "name": "University Hills Apartments1"
+    },
+    {
+        "building_id": "287",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/287.jpg",
+        "lat": "38.9850375",
+        "lng": "-76.9572075604853",
+        "name": "University Hills Apartments2"
+    },
+    {
+        "building_id": "286",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/286.jpg",
+        "lat": "38.98494235",
+        "lng": "-76.9582383073659",
+        "name": "University Hills Apartments3"
+    },
+    {
+        "building_id": "292",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/292.jpg",
+        "lat": "38.98442205",
+        "lng": "-76.9583539620815",
+        "name": "University Hills Apartments4"
+    },
+    {
+        "building_id": "291",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/291.jpg",
+        "lat": "38.9844605",
+        "lng": "-76.9573552914719",
+        "name": "University Hills Apartments5"
+    },
+    {
+        "building_id": "290",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/290.jpg",
+        "lat": "38.9843953",
+        "lng": "-76.9562790737231",
+        "name": "University Hills Apartments6"
+    },
+    {
+        "building_id": "289",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/289.jpg",
+        "lat": "38.98447435",
+        "lng": "-76.9558676954921",
+        "name": "University Hills Apartments7"
+    },
+    {
+        "building_id": "C101",
+        "code": "",
+        "lat": "38.98421265",
+        "lng": "-76.9513539156316",
+        "name": "University United Methodist Church"
+    },
+    {
+        "building_id": "A001",
+        "code": "",
+        "lat": "38.99256455",
+        "lng": "-76.9344298975591",
+        "name": "University View"
+    },
+    {
+        "building_id": "A002",
+        "code": "",
+        "lat": "38.99251945",
+        "lng": "-76.9336210376858",
+        "name": "University View II"
+    },
+    {
+        "building_id": "F05",
+        "code": "",
+        "lat": "38.9722927",
+        "lng": "-76.9222887214757",
+        "name": "Univesity Research Center (North)"
+    },
+    {
+        "building_id": "F06",
+        "code": "",
+        "lat": "38.970879",
+        "lng": "-76.9218988073354",
+        "name": "Univesity Research Center (South)"
+    },
+    {
+        "building_id": "039",
+        "code": "VMH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/039.jpg",
+        "lat": "38.9830467",
+        "lng": "-76.9470382916646",
+        "name": "Van Munching Hall"
+    },
+    {
+        "building_id": "158",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/158.jpg",
+        "lat": "38.99006865",
+        "lng": "-76.9451814170622",
+        "name": "Varsity Sports Teamhouse"
+    },
+    {
+        "building_id": "023",
+        "code": "WSH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/023.jpg",
+        "lat": "38.9818076",
+        "lng": "-76.9413924749198",
+        "name": "Washington Hall (Residence Hall)"
+    },
+    {
+        "building_id": "069",
+        "code": "WIC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/069.jpg",
+        "lat": "38.9837427",
+        "lng": "-76.9458442795105",
+        "name": "Wicomico Hall (Residence Hall)"
+    },
+    {
+        "building_id": "081",
+        "code": "WTU",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/081.jpg",
+        "lat": "38.9899002",
+        "lng": "-76.9368484609687",
+        "name": "Wind Tunnel Building"
+    },
+    {
+        "building_id": "047",
+        "code": "WDS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/047.jpg",
+        "lat": "38.9851106",
+        "lng": "-76.9418451233709",
+        "name": "Woods Hall"
+    },
+    {
+        "building_id": "051",
+        "code": "WOR",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/051.jpg",
+        "lat": "38.98467285",
+        "lng": "-76.9449993420465",
+        "name": "Worchester Hall (Residence Hall)"
+    },
+    {
+        "building_id": "139",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/139.jpg",
+        "lat": "38.9832052",
+        "lng": "-76.9371918048901",
+        "name": "Zeta Beta Tau"
+    },
+    {
+        "building_id": "138",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/138.jpg",
+        "lat": "38.9832584",
+        "lng": "-76.9366895",
+        "name": "Zeta Psi Fraternity"
+    },
+    {
+        "building_id": "137",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/137.jpg",
+        "lat": "38.98325535",
+        "lng": "-76.9361831249379",
+        "name": "Zeta Tau Alpha"
+    },
+    {
+        "building_id": "P192",
+        "code": "",
+        "lat": "38.998125",
+        "lng": "-76.9431896439374",
+        "name": "Parking Lot P1"
+    },
+    {
+        "building_id": "P193",
+        "code": "",
+        "lat": "38.99898715",
+        "lng": "-76.9421021500106",
+        "name": "Parking Lot P2"
+    },
+    {
+        "building_id": "P195",
+        "code": "",
+        "lat": "38.99385655",
+        "lng": "-76.9403724850234",
+        "name": "Parking Lot PP*"
+    },
+    {
+        "building_id": "P196",
+        "code": "",
+        "lat": "38.9933824",
+        "lng": "-76.9420853788895",
+        "name": "Parking Lot PP1"
+    },
+    {
+        "building_id": "P197",
+        "code": "",
+        "lat": "38.99385655",
+        "lng": "-76.9406987273544",
+        "name": "Parking Lot PP2"
+    },
+    {
+        "building_id": "P198",
+        "code": "",
+        "lat": "38.9911695",
+        "lng": "-76.9438760840556",
+        "name": "Parking Lot Q"
+    },
+    {
+        "building_id": "P262",
+        "code": "",
+        "lat": "38.9911726",
+        "lng": "-76.9434800720619",
+        "name": "Parking Lot Q1"
+    },
+    {
+        "building_id": "P199",
+        "code": "",
+        "lat": "38.9893944",
+        "lng": "-76.9456938440546",
+        "name": "Parking Lot R*"
+    },
+    {
+        "building_id": "P200",
+        "code": "",
+        "lat": "38.9902248",
+        "lng": "-76.9455308111322",
+        "name": "Parking Lot R3"
+    },
+    {
+        "building_id": "P201",
+        "code": "",
+        "lat": "38.99062525",
+        "lng": "-76.95470385",
+        "name": "Parking Lot R4"
+    },
+    {
+        "building_id": "P203",
+        "code": "",
+        "lat": "38.98948445",
+        "lng": "-76.9409602",
+        "name": "Parking Lot RR"
+    },
+    {
+        "building_id": "P251",
+        "code": "",
+        "lat": "38.9869681",
+        "lng": "-76.9344902879538",
+        "name": "Parking Lot RR1"
+    },
+    {
+        "building_id": "P265",
+        "code": "",
+        "lat": "38.9948436",
+        "lng": "-76.9379107465909",
+        "name": "Parking Lot RR2"
+    },
+    {
+        "building_id": "P252",
+        "code": "",
+        "lat": "38.9876128",
+        "lng": "-76.9343316115429",
+        "name": "Parking Lot RR2"
+    },
+    {
+        "building_id": "P204",
+        "code": "",
+        "lat": "38.9925145",
+        "lng": "-76.9430233373487",
+        "name": "Parking Lot S3"
+    },
+    {
+        "building_id": "P205",
+        "code": "",
+        "lat": "38.98246725",
+        "lng": "-76.943739453674",
+        "name": "Parking Lot S4"
+    },
+    {
+        "building_id": "P206",
+        "code": "",
+        "lat": "38.9933015",
+        "lng": "-76.9494324090596",
+        "name": "Parking Lot S5"
+    },
+    {
+        "building_id": "P207",
+        "code": "",
+        "lat": "38.99283285",
+        "lng": "-76.9477725756751",
+        "name": "Parking Lot S7"
+    },
+    {
+        "building_id": "P208",
+        "code": "",
+        "lat": "38.99288295",
+        "lng": "-76.9467035382421",
+        "name": "Parking Lot S8"
+    },
+    {
+        "building_id": "P209",
+        "code": "",
+        "lat": "38.9902444",
+        "lng": "-76.9489187705445",
+        "name": "Parking Lot SD*"
+    },
+    {
+        "building_id": "P211",
+        "code": "",
+        "lat": "38.9937615",
+        "lng": "-76.9441549116248",
+        "name": "Parking Lot SS1"
+    },
+    {
+        "building_id": "P212",
+        "code": "",
+        "lat": "38.99397245",
+        "lng": "-76.9463360969161",
+        "name": "Parking Lot SS2"
+    },
+    {
+        "building_id": "P213",
+        "code": "",
+        "lat": "38.9942645",
+        "lng": "-76.94667609821",
+        "name": "Parking Lot SS3"
+    },
+    {
+        "building_id": "P215",
+        "code": "",
+        "lat": "38.98986685",
+        "lng": "-76.9377298240488",
+        "name": "Parking Lot T"
+    },
+    {
+        "building_id": "P217",
+        "code": "",
+        "lat": "38.98852595",
+        "lng": "-76.94036895",
+        "name": "Parking Lot TT"
+    },
+    {
+        "building_id": "P218",
+        "code": "",
+        "lat": "38.9826911",
+        "lng": "-76.9437394",
+        "name": "Parking Lot U1"
+    },
+    {
+        "building_id": "P260",
+        "code": "",
+        "lat": "38.9828241",
+        "lng": "-76.9450241678599",
+        "name": "Parking Lot U6"
+    },
+    {
+        "building_id": "P247",
+        "code": "",
+        "lat": "38.9828063",
+        "lng": "-76.9449759499812",
+        "name": "Parking Lot U6"
+    },
+    {
+        "building_id": "P224",
+        "code": "",
+        "lat": "38.99054885",
+        "lng": "-76.9398296251258",
+        "name": "Parking Lot UU"
+    },
+    {
+        "building_id": "P225",
+        "code": "",
+        "lat": "38.98486265",
+        "lng": "-76.9413860371152",
+        "name": "Parking Lot W"
+    },
+    {
+        "building_id": "P244",
+        "code": "",
+        "lat": "38.98494595",
+        "lng": "-76.9424845941378",
+        "name": "Parking Lot W1"
+    },
+    {
+        "building_id": "P226",
+        "code": "",
+        "lat": "38.9900403",
+        "lng": "-76.935617290379",
+        "name": "Parking Lot XX1"
+    },
+    {
+        "building_id": "P227",
+        "code": "",
+        "lat": "38.99147625",
+        "lng": "-76.9367968153632",
+        "name": "Parking Lot XX2"
+    },
+    {
+        "building_id": "P229",
+        "code": "",
+        "lat": "38.99316725",
+        "lng": "-76.937826475598",
+        "name": "Parking Lot XX4"
+    },
+    {
+        "building_id": "P233",
+        "code": "",
+        "lat": "38.9909658",
+        "lng": "-76.93692095",
+        "name": "Parking Lot XX5"
+    },
+    {
+        "building_id": "P230",
+        "code": "",
+        "lat": "38.9840286",
+        "lng": "-76.9419977518114",
+        "name": "Parking Lot Y"
+    },
+    {
+        "building_id": "P231",
+        "code": "",
+        "lat": "38.993677",
+        "lng": "-76.9480388560794",
+        "name": "Parking Lot YC"
+    },
+    {
+        "building_id": "P240",
+        "code": "",
+        "lat": "38.98813685",
+        "lng": "-76.9485514812047",
+        "name": "Parking Lot Z"
+    },
+    {
+        "building_id": "P232",
+        "code": "",
+        "lat": "38.9887473",
+        "lng": "-76.9467581",
+        "name": "Parking Lot Z*"
+    },
+    {
+        "building_id": "P238",
+        "code": "",
+        "lat": "38.9890159",
+        "lng": "-76.9475152",
+        "name": "Parking Lot Z1"
+    },
+    {
+        "building_id": "805",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/805.jpg",
+        "lat": "38.9767149",
+        "lng": "-76.9249429909109",
+        "name": "Patapsco Building"
+    },
+    {
+        "building_id": "010",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/010.jpg",
+        "lat": "38.98863025",
+        "lng": "-76.943483756875",
+        "name": "Patuxent Building"
+    },
+    {
+        "building_id": "385",
+        "code": "",
+        "lat": "38.98515375",
+        "lng": "-76.9335922924701",
+        "name": "Pest Control Trailer"
+    },
+    {
+        "building_id": "130",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/130.jpg",
+        "lat": "38.9845988",
+        "lng": "-76.93463845",
+        "name": "Phi Kappa Tau"
+    },
+    {
+        "building_id": "171",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/171.jpg",
+        "lat": "38.9813563",
+        "lng": "-76.9356071135738",
+        "name": "Phi Sigma Sigma Sorority"
+    },
+    {
+        "building_id": "383",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/383.jpg",
+        "lat": "38.9819567",
+        "lng": "-76.9292279695603",
+        "name": "Physical Distribution Center (Terrapin Trader)"
+    },
+    {
+        "building_id": "082",
+        "code": "PHY",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/082.jpg",
+        "lat": "38.9886972",
+        "lng": "-76.94007719774",
+        "name": "Physics Building"
+    },
+    {
+        "building_id": "127",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/127.jpg",
+        "lat": "38.9846297",
+        "lng": "-76.936200475",
+        "name": "Pi Kappa Alpha Fraternity"
+    },
+    {
+        "building_id": "217",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/217.jpg",
+        "lat": "38.98600515",
+        "lng": "-76.9340028269637",
+        "name": "Plant Operations and Maintenance"
+    },
+    {
+        "building_id": "055",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/055.jpg",
+        "lat": "38.98503875",
+        "lng": "-76.9334591527876",
+        "name": "Plant Operations and Maintenance Shop Building"
+    },
+    {
+        "building_id": "101",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/101.jpg",
+        "lat": "38.98657335",
+        "lng": "-76.9344044678528",
+        "name": "Plant Operations and Maintenance Shop2"
+    },
+    {
+        "building_id": "212",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/212.jpg",
+        "lat": "38.9867869",
+        "lng": "-76.9342274025325",
+        "name": "Plant Operations and Maintenance Shop3"
+    },
+    {
+        "building_id": "006",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/006.jpg",
+        "lat": "38.9858077",
+        "lng": "-76.93452175",
+        "name": "Plant Operations and Maintenance Shops"
+    },
+    {
+        "building_id": "012",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/012.jpg",
+        "lat": "38.98636865",
+        "lng": "-76.9339846304955",
+        "name": "Plant Operations and Maintenance Warehouse"
+    },
+    {
+        "building_id": "036",
+        "code": "PLS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/036.jpg",
+        "lat": "38.98873715",
+        "lng": "-76.9413596237531",
+        "name": "Plant Science Building"
+    },
+    {
+        "building_id": "007",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/007.jpg",
+        "lat": "38.98295055",
+        "lng": "-76.9371601416079",
+        "name": "Pocomoke Building"
+    },
+    {
+        "building_id": "P249",
+        "code": "",
+        "lat": "38.98301005",
+        "lng": "-76.9312547643577",
+        "name": "Police Impound"
+    },
+    {
+        "building_id": "018",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/018.jpg",
+        "lat": "38.9825402",
+        "lng": "-76.9355837584007",
+        "name": "Police Substation"
+    },
+    {
+        "building_id": "092",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/092.jpg",
+        "lat": "38.9903918",
+        "lng": "-76.93830195",
+        "name": "Potomac Building"
+    },
+    {
+        "building_id": "054",
+        "code": "PKT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/054.jpg",
+        "lat": "38.9844511",
+        "lng": "-76.9461320708538",
+        "name": "Preinkert Field House"
+    },
+    {
+        "building_id": "164",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/164.jpg",
+        "lat": "38.9885031",
+        "lng": "-76.9523499501432",
+        "name": "Presidents Residence"
+    },
+    {
+        "building_id": "021",
+        "code": "PGG",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/021.jpg",
+        "lat": "38.9825857",
+        "lng": "-76.941826725",
+        "name": "Prince Georges Hall"
+    },
+    {
+        "building_id": "200",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/200.jpg",
+        "lat": "38.9886431",
+        "lng": "-76.9465122",
+        "name": "Pump House"
+    },
+    {
+        "building_id": "061",
+        "code": "QAN",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/061.jpg",
+        "lat": "38.98519025",
+        "lng": "-76.9460068545931",
+        "name": "Queen Annes Hall"
+    },
+    {
+        "building_id": "078",
+        "code": "ARM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/078.jpg",
+        "lat": "38.9860268",
+        "lng": "-76.9389662139866",
+        "name": "Reckord Armory"
+    },
+    {
+        "building_id": "D102",
+        "code": "",
+        "lat": "38.9954899",
+        "lng": "-76.9391820716749",
+        "name": "Recreation Artificial Turf Field"
+    },
+    {
+        "building_id": "107",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/107.jpg",
+        "lat": "38.99566315",
+        "lng": "-76.9372141594106",
+        "name": "Recycling Center"
+    },
+    {
+        "building_id": "202",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/202.jpg",
+        "lat": "38.9897313",
+        "lng": "-76.9414582777038",
+        "name": "Regents Drive Parking Garage"
+    },
+    {
+        "building_id": "398",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/398.jpg",
+        "lat": "38.997127",
+        "lng": "-76.942996197787",
+        "name": "Research Greenhouse"
+    },
+    {
+        "building_id": "004",
+        "code": "RIT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/004.jpg",
+        "lat": "38.98504805",
+        "lng": "-76.936456447182",
+        "name": "Ritchie Coliseum"
+    },
+    {
+        "building_id": "409",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/409.jpg",
+        "lat": "38.99629445",
+        "lng": "-76.9397458168949",
+        "name": "Robert E. Taylor Softball Stadium"
+    },
+    {
+        "building_id": "C105",
+        "code": "",
+        "lat": "38.98270895",
+        "lng": "-76.9487503080679",
+        "name": "Rosenbloom Hillel Center for Jewish Life"
+    },
+    {
+        "building_id": "080",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/080.jpg",
+        "lat": "38.9853423",
+        "lng": "-76.9376116836577",
+        "name": "Rossborough Inn"
+    },
+    {
+        "building_id": "E8400",
+        "code": "",
+        "lat": "38.99373045",
+        "lng": "-76.9332763982874",
+        "name": "Route One Annex"
+    },
+    {
+        "building_id": "407",
+        "code": "",
+        "lat": "38.9894604",
+        "lng": "-76.9490713634912",
+        "name": "Samuel Riggs IV Alumni Center"
+    },
+    {
+        "building_id": "019",
+        "code": "SCUB 1",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/019.jpg",
+        "lat": "38.98202525",
+        "lng": "-76.9404483999786",
+        "name": "Satellite Central Utilities Building 1"
+    },
+    {
+        "building_id": "067",
+        "code": "SCUB 2",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/067.jpg",
+        "lat": "38.9835376",
+        "lng": "-76.9446545340067",
+        "name": "Satellite Central Utilities Building 2"
+    },
+    {
+        "building_id": "392",
+        "code": "SCUB 3",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/392.jpg",
+        "lat": "38.98909655",
+        "lng": "-76.9459512158262",
+        "name": "Satellite Central Utilities Building 3"
+    },
+    {
+        "building_id": "405",
+        "code": "SCUB 4",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/405.jpg",
+        "lat": "38.98979345",
+        "lng": "-76.9383176",
+        "name": "Satellite Central Utilities Building 4"
+    },
+    {
+        "building_id": "255",
+        "code": "SPH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/255.jpg",
+        "lat": "38.9934922",
+        "lng": "-76.9431633838994",
+        "name": "School of Public Health"
+    },
+    {
+        "building_id": "295",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/295.jpg",
+        "lat": "38.98857565",
+        "lng": "-76.936510313403",
+        "name": "Security Booth (Campus Drive)"
+    },
+    {
+        "building_id": "297",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/297.jpg",
+        "lat": "38.99198405",
+        "lng": "-76.95045855",
+        "name": "Security Booth (Stadium Drive)"
+    },
+    {
+        "building_id": "109",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/109.jpg",
+        "lat": "38.99169565",
+        "lng": "-76.9414407668993",
+        "name": "Sheep Barn"
+    },
+    {
+        "building_id": "159",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/159.jpg",
+        "lat": "38.9889419",
+        "lng": "-76.9441134376408",
+        "name": "Shipley Field House (Baseball)"
+    },
+    {
+        "building_id": "037",
+        "code": "SHM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/037.jpg",
+        "lat": "38.9839376",
+        "lng": "-76.942745495777",
+        "name": "Shoemaker Building"
+    },
+    {
+        "building_id": "075",
+        "code": "SHR",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/075.jpg",
+        "lat": "38.98727505",
+        "lng": "-76.94191685",
+        "name": "Shriver Laboratory"
+    },
+    {
+        "building_id": "P123",
+        "code": "",
+        "lat": "38.9955167",
+        "lng": "-76.9365504141656",
+        "name": "Shuttle Bus Facility"
+    },
+    {
+        "building_id": "013",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/013.jpg",
+        "lat": "38.98692845",
+        "lng": "-76.9338891741985",
+        "name": "Shuttle Bus Facility"
+    },
+    {
+        "building_id": "410",
+        "code": "",
+        "lat": "38.9870785",
+        "lng": "-76.93407295",
+        "name": "Shuttle Bus Trailer 2"
+    },
+    {
+        "building_id": "174",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/174.jpg",
+        "lat": "38.9806496",
+        "lng": "-76.93587565",
+        "name": "Sigma Delta Tau Sorority"
+    },
+    {
+        "building_id": "135",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/135.jpg",
+        "lat": "38.9832453",
+        "lng": "-76.93514475",
+        "name": "Sigma Kappa Sorority"
+    },
+    {
+        "building_id": "133",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/133.jpg",
+        "lat": "38.98356725",
+        "lng": "-76.9341870726646",
+        "name": "Sigma Phi Epsilon Fraternity"
+    },
+    {
+        "building_id": "044",
+        "code": "SKN",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/044.jpg",
+        "lat": "38.98480955",
+        "lng": "-76.9418413304917",
+        "name": "Skinner Building"
+    },
+    {
+        "building_id": "063",
+        "code": "SOM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/063.jpg",
+        "lat": "38.9850026",
+        "lng": "-76.9455473",
+        "name": "Somerset Hall (Residence Hall)"
+    },
+    {
+        "building_id": "996",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/996.jpg",
+        "lat": "38.98211405",
+        "lng": "-76.9429384672295",
+        "name": "South Campus Commons 1"
+    },
+    {
+        "building_id": "997",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/997.jpg",
+        "lat": "38.9828397",
+        "lng": "-76.942933891664",
+        "name": "South Campus Commons 2"
+    },
+    {
+        "building_id": "998",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/998.jpg",
+        "lat": "38.98147685",
+        "lng": "-76.9397267748109",
+        "name": "South Campus Commons 3"
+    },
+    {
+        "building_id": "999",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/999.jpg",
+        "lat": "38.98128715",
+        "lng": "-76.9414232588701",
+        "name": "South Campus Commons 4"
+    },
+    {
+        "building_id": "974",
+        "code": "",
+        "lat": "38.98275075",
+        "lng": "-76.94470195",
+        "name": "South Campus Commons 5"
+    },
+    {
+        "building_id": "975",
+        "code": "",
+        "lat": "38.98216555",
+        "lng": "-76.9446791864948",
+        "name": "South Campus Commons 6"
+    },
+    {
+        "building_id": "281",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/281.jpg",
+        "lat": "38.9815547",
+        "lng": "-76.9445591280214",
+        "name": "South Campus Commons 7"
+    },
+    {
+        "building_id": "026",
+        "code": "SDH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/026.jpg",
+        "lat": "38.983048",
+        "lng": "-76.9436837393588",
+        "name": "South Campus Dining Hall"
+    },
+    {
+        "building_id": "401",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/401.jpg",
+        "lat": "38.9823717",
+        "lng": "-76.938869",
+        "name": "South Gate (Regents Dr. and Rt. 1)"
+    },
+    {
+        "building_id": "104",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/104.jpg",
+        "lat": "38.9869185",
+        "lng": "-76.94795265",
+        "name": "Special Education Trailer One"
+    },
+    {
+        "building_id": "105",
+        "code": "",
+        "lat": "38.9867484",
+        "lng": "-76.94795265",
+        "name": "Special Education Trailer Two"
+    },
+    {
+        "building_id": "100",
+        "code": "",
+        "lat": "38.98651785",
+        "lng": "-76.93443985",
+        "name": "Special Services Office Building"
+    },
+    {
+        "building_id": "062",
+        "code": "STM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/062.jpg",
+        "lat": "38.9870071",
+        "lng": "-76.9455983683182",
+        "name": "St. Mary's Hall (Residence Hall)"
+    },
+    {
+        "building_id": "218",
+        "code": "SDG",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/218.jpg",
+        "lat": "38.9910407",
+        "lng": "-76.9489997913519",
+        "name": "Stadium Drive Parking Garage"
+    },
+    {
+        "building_id": "233",
+        "code": "SQH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/233.jpg",
+        "lat": "38.9820745",
+        "lng": "-76.943749743933",
+        "name": "Susquehanna Hall"
+    },
+    {
+        "building_id": "076",
+        "code": "SYM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/076.jpg",
+        "lat": "38.9870811",
+        "lng": "-76.9406455474374",
+        "name": "Symons Hall"
+    },
+    {
+        "building_id": "030",
+        "code": "TAL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/030.jpg",
+        "lat": "38.9833387",
+        "lng": "-76.9422561",
+        "name": "Talbot Hall (Residence Hall)"
+    },
+    {
+        "building_id": "043",
+        "code": "TLF",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/043.jpg",
+        "lat": "38.98484635",
+        "lng": "-76.9430948392412",
+        "name": "Taliaferro Hall"
+    },
+    {
+        "building_id": "128",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/128.jpg",
+        "lat": "38.9846469",
+        "lng": "-76.93563395",
+        "name": "Tau Kappa Epsilon Fraternity"
+    },
+    {
+        "building_id": "141",
+        "code": "TWS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/141.jpg",
+        "lat": "38.98598645",
+        "lng": "-76.9483238494655",
+        "name": "Tawes Fine Arts Building"
+    },
+    {
+        "building_id": "387",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/387.jpg",
+        "lat": "38.99251055",
+        "lng": "-76.938615024697",
+        "name": "Technology Advancement Building"
+    },
+    {
+        "building_id": "806",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/806.jpg",
+        "lat": "38.97964495",
+        "lng": "-76.9255078851059",
+        "name": "Technology Ventures Building"
+    },
+    {
+        "building_id": "208",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/208.jpg",
+        "lat": "38.9852606",
+        "lng": "-76.9337296097556",
+        "name": "Temporary Building"
+    },
+    {
+        "building_id": "207",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/207.jpg",
+        "lat": "38.9836276",
+        "lng": "-76.9327854891442",
+        "name": "Temporary Building1"
+    },
+    {
+        "building_id": "204",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/204.jpg",
+        "lat": "38.983738",
+        "lng": "-76.9328960630658",
+        "name": "Temporary Building2"
+    },
+    {
+        "building_id": "403",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/403.jpg",
+        "lat": "38.99497",
+        "lng": "-76.9433528356638",
+        "name": "Terrapin Trail Parking Garage"
+    },
+    {
+        "building_id": "257",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/257.jpg",
+        "lat": "38.9925679",
+        "lng": "-76.9466253202392",
+        "name": "The Diner"
+    },
+    {
+        "building_id": "A004",
+        "code": "",
+        "lat": "38.98418695",
+        "lng": "-76.9493582912198",
+        "name": "The Domain"
+    },
+    {
+        "building_id": "A003",
+        "code": "",
+        "lat": "38.99146725",
+        "lng": "-76.9344594915205",
+        "name": "The Varsity"
+    },
+    {
+        "building_id": "389",
+        "code": "",
+        "lat": "38.9874593",
+        "lng": "-76.9498700750045",
+        "name": "Track/Soccer Ticket Booth"
+    },
+    {
+        "building_id": "079",
+        "code": "TUR",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/079.jpg",
+        "lat": "38.98614065",
+        "lng": "-76.9373371743758",
+        "name": "Turner Hall (Dairy/Visitor Center)"
+    },
+    {
+        "building_id": "042",
+        "code": "TYD",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/042.jpg",
+        "lat": "38.9848516",
+        "lng": "-76.9440007655894",
+        "name": "Tydings Hall"
+    },
+    {
+        "building_id": "361",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/361.jpg",
+        "lat": "38.98970955",
+        "lng": "-76.9478028839735",
+        "name": "Tyser Tower"
+    },
+    {
+        "building_id": "251",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/251.jpg",
+        "lat": "38.99274005",
+        "lng": "-76.9496090325357",
+        "name": "251 North"
+    },
+    {
+        "building_id": "F08",
+        "code": "",
+        "lat": "38.9781702",
+        "lng": "-76.9210122711411",
+        "name": "94th Aero Squadron"
+    },
+    {
+        "building_id": "F01",
+        "code": "FDA",
+        "lat": "38.9770124",
+        "lng": "-76.9261965846492",
+        "name": "A Harvey Wiley Federal Building FDA"
+    },
+    {
+        "building_id": "115",
+        "code": "AVW",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/115.jpg",
+        "lat": "38.99079905",
+        "lng": "-76.9363418604721",
+        "name": "A.V. Williams Building"
+    },
+    {
+        "building_id": "163",
+        "code": "SSU",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/163.jpg",
+        "lat": "38.98816455",
+        "lng": "-76.9447218233957",
+        "name": "Adele H. Stamp Student Union Buildings"
+    },
+    {
+        "building_id": "102",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/102.jpg",
+        "lat": "38.99198175",
+        "lng": "-76.9407337234236",
+        "name": "Agriculture Shed"
+    },
+    {
+        "building_id": "024",
+        "code": "AGY",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/024.jpg",
+        "lat": "38.98157935",
+        "lng": "-76.9414146",
+        "name": "Allegany Hall (Residence Hall)"
+    },
+    {
+        "building_id": "172",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/172.jpg",
+        "lat": "38.9814223",
+        "lng": "-76.9360293156412",
+        "name": "Alpha Chi Omega Sorority"
+    },
+    {
+        "building_id": "170",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/170.jpg",
+        "lat": "38.981239",
+        "lng": "-76.9352079623363",
+        "name": "Alpha Delta Pi Sorority"
+    },
+    {
+        "building_id": "136",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/136.jpg",
+        "lat": "38.98324535",
+        "lng": "-76.93562535",
+        "name": "Alpha Epsilon Phi Sorority"
+    },
+    {
+        "building_id": "129",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/129.jpg",
+        "lat": "38.9846571",
+        "lng": "-76.9351584",
+        "name": "Alpha Epsilon Pi"
+    },
+    {
+        "building_id": "176",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/176.jpg",
+        "lat": "38.9808974",
+        "lng": "-76.9352442035259",
+        "name": "Alpha Phi Sorority"
+    },
+    {
+        "building_id": "134",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/134.jpg",
+        "lat": "38.98329385",
+        "lng": "-76.9346571906316",
+        "name": "Alpha Sigma Phi Fraternity"
+    },
+    {
+        "building_id": "F03",
+        "code": "",
+        "lat": "38.97152715",
+        "lng": "-76.9299850652696",
+        "name": "American Center for Physics"
+    },
+    {
+        "building_id": "103",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/103.jpg",
+        "lat": "38.99200365",
+        "lng": "-76.9410828738213",
+        "name": "Animal Science Service Building"
+    },
+    {
+        "building_id": "142",
+        "code": "ANS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/142.jpg",
+        "lat": "38.99164625",
+        "lng": "-76.9394592785606",
+        "name": "Animal Science/Agricultural Engineering Building"
+    },
+    {
+        "building_id": "008",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/008.jpg",
+        "lat": "38.9822303",
+        "lng": "-76.9400675383842",
+        "name": "Annapolis Hall"
+    },
+    {
+        "building_id": "060",
+        "code": "ANA",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/060.jpg",
+        "lat": "38.98595025",
+        "lng": "-76.94673185",
+        "name": "Anne Arundel Hall"
+    },
+    {
+        "building_id": "156",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/156.jpg",
+        "lat": "38.99193245",
+        "lng": "-76.9487330028218",
+        "name": "Apiary"
+    },
+    {
+        "building_id": "399",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/399.jpg",
+        "lat": "38.9933884",
+        "lng": "-76.9464978414166",
+        "name": "Aquatics Center"
+    },
+    {
+        "building_id": "145",
+        "code": "ARC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/145.jpg",
+        "lat": "38.98423555",
+        "lng": "-76.9475462198212",
+        "name": "Architecture Building"
+    },
+    {
+        "building_id": "146",
+        "code": "ASY",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/146.jpg",
+        "lat": "38.98528145",
+        "lng": "-76.9478947752967",
+        "name": "Art-Sociology Building"
+    },
+    {
+        "building_id": "016",
+        "code": "BAL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/016.jpg",
+        "lat": "38.9822469",
+        "lng": "-76.9421925409139",
+        "name": "Baltimore Hall (Residence Hall)"
+    },
+    {
+        "building_id": "099",
+        "code": "BEL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/099.jpg",
+        "lat": "38.99281705",
+        "lng": "-76.9426116",
+        "name": "Bel Air Hall (Residence Hall)"
+    },
+    {
+        "building_id": "143",
+        "code": "EDU",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/143.jpg",
+        "lat": "38.9867095",
+        "lng": "-76.9474215",
+        "name": "Benjamin Building"
+    },
+    {
+        "building_id": "144",
+        "code": "BPS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/144.jpg",
+        "lat": "38.98872265",
+        "lng": "-76.9425929312518",
+        "name": "Biology-Psychology Building"
+    },
+    {
+        "building_id": "296",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/296.jpg",
+        "lat": "38.99285415",
+        "lng": "-76.9376944355845",
+        "name": "Biomolecular Sciences Building"
+    },
+    {
+        "building_id": "413",
+        "code": "BRB",
+        "lat": "38.98897595",
+        "lng": "-76.9428094130756",
+        "name": "Biosciences Research Building"
+    },
+    {
+        "building_id": "119",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/119.jpg",
+        "lat": "38.9922976",
+        "lng": "-76.94089305",
+        "name": "Blacksmith Shop"
+    },
+    {
+        "building_id": "215",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/215.jpg",
+        "lat": "38.98626085",
+        "lng": "-76.9346037302467",
+        "name": "Building Services Operations Building"
+    },
+    {
+        "building_id": "364",
+        "code": "BRD",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/364.jpg",
+        "lat": "38.99033895",
+        "lng": "-76.9475181930938",
+        "name": "Byrd Stadium"
+    },
+    {
+        "building_id": "369",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/369.jpg",
+        "lat": "38.99025255",
+        "lng": "-76.9458711262378",
+        "name": "Byrd Stadium Maintenance Building"
+    },
+    {
+        "building_id": "015",
+        "code": "CAL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/015.jpg",
+        "lat": "38.98292125",
+        "lng": "-76.9423134911421",
+        "name": "Calvert Hall (Residence Hall)"
+    },
+    {
+        "building_id": "097",
+        "code": "CCC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/097.jpg",
+        "lat": "38.99217805",
+        "lng": "-76.9429981",
+        "name": "Cambridge Community Center"
+    },
+    {
+        "building_id": "096",
+        "code": "CAM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/096.jpg",
+        "lat": "38.99172105",
+        "lng": "-76.9430174173239",
+        "name": "Cambridge Hall (Residence Hall)"
+    },
+    {
+        "building_id": "070",
+        "code": "CAR",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/070.jpg",
+        "lat": "38.9834966",
+        "lng": "-76.9457925",
+        "name": "Caroline Hall (Residence Hall)"
+    },
+    {
+        "building_id": "065",
+        "code": "CRL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/065.jpg",
+        "lat": "38.9839834",
+        "lng": "-76.9456253332123",
+        "name": "Caroll Hall (Residence Hall)"
+    },
+    {
+        "building_id": "C104",
+        "code": "",
+        "lat": "38.98056895",
+        "lng": "-76.9450898077953",
+        "name": "Catholic Student Center"
+    },
+    {
+        "building_id": "110",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/110.jpg",
+        "lat": "38.9923982",
+        "lng": "-76.9403740849109",
+        "name": "Cattle Barn"
+    },
+    {
+        "building_id": "017",
+        "code": "CEC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/017.jpg",
+        "lat": "38.9829463",
+        "lng": "-76.9416573737624",
+        "name": "Cecil Hall"
+    },
+    {
+        "building_id": "F02",
+        "code": "",
+        "lat": "38.9741989",
+        "lng": "-76.9256352793971",
+        "name": "Center for the Advanced Study of Language"
+    },
+    {
+        "building_id": "381",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/381.jpg",
+        "lat": "38.99352845",
+        "lng": "-76.9484830471325",
+        "name": "Center for Young Children"
+    },
+    {
+        "building_id": "087",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/087.jpg",
+        "lat": "38.9917051",
+        "lng": "-76.9383409902712",
+        "name": "Central Animal Resources Facility"
+    },
+    {
+        "building_id": "098",
+        "code": "CEN",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/098.jpg",
+        "lat": "38.992271",
+        "lng": "-76.9421248952804",
+        "name": "Centreville Hall (Residence Hall)"
+    },
+    {
+        "building_id": "C102",
+        "code": "",
+        "lat": "38.9803053",
+        "lng": "-76.9332465412442",
+        "name": "Chabad Jewish Student Center"
+    },
+    {
+        "building_id": "D108",
+        "code": "",
+        "lat": "38.99415265",
+        "lng": "-76.9452623440046",
+        "name": "Challenge Course"
+    },
+    {
+        "building_id": "D103",
+        "code": "",
+        "lat": "38.9837497",
+        "lng": "-76.9389471052562",
+        "name": "Chapel Fields"
+    },
+    {
+        "building_id": "025",
+        "code": "CHL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/025.jpg",
+        "lat": "38.9816226",
+        "lng": "-76.9405193937813",
+        "name": "Charles Hall (Residence Hall)"
+    },
+    {
+        "building_id": "090",
+        "code": "CHE",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/090.jpg",
+        "lat": "38.99060895",
+        "lng": "-76.9395374654513",
+        "name": "Chemical and Nuclear Engineering Building"
+    },
+    {
+        "building_id": "091",
+        "code": "CHM",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/091.jpg",
+        "lat": "38.98959475",
+        "lng": "-76.940171718657",
+        "name": "Chemistry Building"
+    },
+    {
+        "building_id": "338",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/338.jpg",
+        "lat": "38.99828345",
+        "lng": "-76.94215145",
+        "name": "Chesapeake Building"
+    },
+    {
+        "building_id": "121",
+        "code": "CHS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/121.jpg",
+        "lat": "38.99280355",
+        "lng": "-76.9434348",
+        "name": "Chestertown Hall (Residence Hall)"
+    },
+    {
+        "building_id": "059",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/059.jpg",
+        "lat": "38.9852322",
+        "lng": "-76.9445192324004",
+        "name": "Chincoteague Hall"
+    },
+    {
+        "building_id": "386",
+        "code": "PAC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/386.jpg",
+        "lat": "38.9906807",
+        "lng": "-76.9504434053224",
+        "name": "Clarice Smith Performing Arts Center"
+    },
+    {
+        "building_id": "D107",
+        "code": "",
+        "lat": "38.99419435",
+        "lng": "-76.9458984242081",
+        "name": "Climbing Wall"
+    },
+    {
+        "building_id": "162",
+        "code": "COL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/162.jpg",
+        "lat": "38.98797155",
+        "lng": "-76.9467662555511",
+        "name": "Cole Student Activities Building"
+    },
+    {
+        "building_id": "802",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/802.jpg",
+        "lat": "38.9903857",
+        "lng": "-76.9336943536548",
+        "name": "College Park Fire Station"
+    },
+    {
+        "building_id": "C106",
+        "code": "",
+        "lat": "38.981888",
+        "lng": "-76.9474186908036",
+        "name": "College Park LDS Institute of Religion"
+    },
+    {
+        "building_id": "P256",
+        "code": "",
+        "lat": "38.97825115",
+        "lng": "-76.92800716569322",
+        "name": "College Park Metro Station"
+    },
+    {
+        "building_id": "360",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/360.jpg",
+        "lat": "38.9956305",
+        "lng": "-76.9413366066757",
+        "name": "Comcast Center"
+    },
+    {
+        "building_id": "224",
+        "code": "CSS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/224.jpg",
+        "lat": "38.9909812",
+        "lng": "-76.9425669540912",
+        "name": "Computer and Space Sciences Building"
+    },
+    {
+        "building_id": "406",
+        "code": "CSI",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/406.jpg",
+        "lat": "38.98999465",
+        "lng": "-76.9361946",
+        "name": "Computer Science Instructional Center"
+    },
+    {
+        "building_id": "122",
+        "code": "CBD",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/122.jpg",
+        "lat": "38.9922614",
+        "lng": "-76.9439244117559",
+        "name": "Cumberland Hall (Residence Hall)"
+    },
+    {
+        "building_id": "131",
+        "code": "",
+        "lat": "38.98432725",
+        "lng": "-76.9341748748757",
+        "name": "Delta Chi Fraternity"
+    },
+    {
+        "building_id": "175",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/175.jpg",
+        "lat": "38.9805908",
+        "lng": "-76.9354323628479",
+        "name": "Delta Gamma Sorority"
+    },
+    {
+        "building_id": "173",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/173.jpg",
+        "lat": "38.9807542",
+        "lng": "-76.9363517104313",
+        "name": "Delta Phi Epsilon Sorority"
+    },
+    {
+        "building_id": "252",
+        "code": "DEN",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/252.jpg",
+        "lat": "38.99223865",
+        "lng": "-76.9499786106729",
+        "name": "Denton Hall (Residence Hall)"
+    },
+    {
+        "building_id": "064",
+        "code": "DOR",
+        "lat": "38.9867742",
+        "lng": "-76.9461812019092",
+        "name": "Dorchester Hall (Residence Hall)"
+    },
+    {
+        "building_id": "P248",
+        "code": "",
+        "lat": "38.98291445",
+        "lng": "-76.931625967854",
+        "name": "DOTS Impound"
+    },
+    {
+        "building_id": "253",
+        "code": "EAS",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/253.jpg",
+        "lat": "38.9930193",
+        "lng": "-76.9502564099265",
+        "name": "Easton Hall (Residence Hall)"
+    },
+    {
+        "building_id": "254",
+        "code": "ELK",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/254.jpg",
+        "lat": "38.9925108",
+        "lng": "-76.9489576649778",
+        "name": "Elkton Hall (Residence Hall)"
+    },
+    {
+        "building_id": "256",
+        "code": "ELL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/256.jpg",
+        "lat": "38.9918228",
+        "lng": "-76.9466586443134",
+        "name": "Ellicott Hall (Residence Hall)"
+    },
+    {
+        "building_id": "001",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/001.jpg",
+        "lat": "38.98585305",
+        "lng": "-76.935683449548",
+        "name": "Energy Plant"
+    },
+    {
+        "building_id": "223",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/223.jpg",
+        "lat": "38.99192655",
+        "lng": "-76.936862109123",
+        "name": "Energy Research Facility"
+    },
+    {
+        "building_id": "093",
+        "code": "EAB",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/093.jpg",
+        "lat": "38.99073865",
+        "lng": "-76.9370872500394",
+        "name": "Engineering Annex"
+    },
+    {
+        "building_id": "D104",
+        "code": "",
+        "lat": "38.98753725",
+        "lng": "-76.9375298581359",
+        "name": "Engineering Fields"
+    },
+    {
+        "building_id": "089",
+        "code": "EGL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/089.jpg",
+        "lat": "38.98926235",
+        "lng": "-76.9379467111811",
+        "name": "Engineering Laboratory Building"
+    },
+    {
+        "building_id": "344",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/344.jpg",
+        "lat": "38.9965269",
+        "lng": "-76.9437334181758",
+        "name": "Environmental Services Facility"
+    },
+    {
+        "building_id": "C107",
+        "code": "",
+        "lat": "38.9820118",
+        "lng": "-76.9358864728133",
+        "name": "Episcopal Student Center"
+    },
+    {
+        "building_id": "068",
+        "code": "CRC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/068.jpg",
+        "lat": "38.99358165",
+        "lng": "-76.9452703132821",
+        "name": "Eppley Campus Recreation Center"
+    },
+    {
+        "building_id": "414",
+        "code": "",
+        "lat": "38.99472745",
+        "lng": "-76.9368614977832",
+        "name": "Field Hockey and Lacrosse Complex"
+    },
+    {
+        "building_id": "048",
+        "code": "KEY",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/048.jpg",
+        "lat": "38.98506175",
+        "lng": "-76.9430892753028",
+        "name": "Francis Scott Key Hall"
+    },
+    {
+        "building_id": "D105",
+        "code": "",
+        "lat": "38.9839311",
+        "lng": "-76.9358798758218",
+        "name": "Fraternity Fields"
+    },
+    {
+        "building_id": "029",
+        "code": "FRD",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/029.jpg",
+        "lat": "38.98204525",
+        "lng": "-76.9407467785094",
+        "name": "Frederick Hall (Residence Hall)"
+    },
+    {
+        "building_id": "031",
+        "code": "GRT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/031.jpg",
+        "lat": "38.98323575",
+        "lng": "-76.9426804",
+        "name": "Garrett Hall (Residence Hall)"
+    },
+    {
+        "building_id": "299",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/299.jpg",
+        "lat": "38.98864785",
+        "lng": "-76.9357643250823",
+        "name": "Gate House"
+    },
+    {
+        "building_id": "237",
+        "code": "GEO",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/237.jpg",
+        "lat": "38.9881304",
+        "lng": "-76.9409099576973",
+        "name": "Geology Building"
+    },
+    {
+        "building_id": "166",
+        "code": "GLF",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/166.jpg",
+        "lat": "38.99113325",
+        "lng": "-76.9547070820405",
+        "name": "Golf Course Clubhouse"
+    },
+    {
+        "building_id": "314",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/314.jpg",
+        "lat": "38.9973127",
+        "lng": "-76.9531787893985",
+        "name": "Golf Course Maintenance"
+    },
+    {
+        "building_id": "808",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/808.jpg",
+        "lat": "38.96954285",
+        "lng": "-76.9301602208332",
+        "name": "Golub Property"
+    },
+    {
+        "building_id": "379",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/379.jpg",
+        "lat": "38.98978335",
+        "lng": "-76.9462999828512",
+        "name": "Gossett Football Team House"
+    },
+    {
+        "building_id": "260",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/260.jpg",
+        "lat": "38.9845594",
+        "lng": "-76.9573161915849",
+        "name": "Graduate Garden Apartment Complex"
+    },
+    {
+        "building_id": "327",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/327.jpg",
+        "lat": "38.9956043",
+        "lng": "-76.94380855",
+        "name": "Ground Herbicide/Pesticide Storage Building"
+    },
+    {
+        "building_id": "328",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/328.jpg",
+        "lat": "38.99561845",
+        "lng": "-76.94330185",
+        "name": "Grounds Material and Equipment Building"
+    },
+    {
+        "building_id": "050",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/050.jpg",
+        "lat": "38.99586895",
+        "lng": "-76.9437121",
+        "name": "Grounds Office Building"
+    },
+    {
+        "building_id": "124",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/124.jpg",
+        "lat": "38.9955292",
+        "lng": "-76.9428899",
+        "name": "Grounds Operations and Maintenance Facility"
+    },
+    {
+        "building_id": "073",
+        "code": "HJP",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/073.jpg",
+        "lat": "38.98708535",
+        "lng": "-76.9432766035148",
+        "name": "H.J. Patterson Hall"
+    },
+    {
+        "building_id": "258",
+        "code": "HAG",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/258.jpg",
+        "lat": "38.9924384",
+        "lng": "-76.9474136961276",
+        "name": "Hagerstown Hall (Residence Hall)"
+    },
+    {
+        "building_id": "014",
+        "code": "HRF",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/014.jpg",
+        "lat": "38.9824913",
+        "lng": "-76.9408308448032",
+        "name": "Harford Hall (Residence Hall)"
+    },
+    {
+        "building_id": "002",
+        "code": "HAR",
+        "lat": "38.98703195",
+        "lng": "-76.9356386027744",
+        "name": "Harrison Lab"
+    },
+    {
+        "building_id": "140",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/140.jpg",
+        "lat": "38.9872158",
+        "lng": "-76.9447460619769",
+        "name": "Health Center"
+    },
+    {
+        "building_id": "216",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/216.jpg",
+        "lat": "38.98591735",
+        "lng": "-76.9338248720072",
+        "name": "Heavy Equipment Building"
+    },
+    {
+        "building_id": "F07",
+        "code": "",
+        "lat": "38.97594655",
+        "lng": "-76.923644",
+        "name": "Herbert Wells Ice Rink"
+    },
+    {
+        "building_id": "074",
+        "code": "HZF",
+        "lat": "38.98687755",
+        "lng": "-76.9418893729789",
+        "name": "Holzapfel Hall (Horticulture)"
+    },
+    {
+        "building_id": "C103",
+        "code": "",
+        "lat": "38.98023825",
+        "lng": "-76.9440416856427",
+        "name": "Hope Lutheran Church"
+    },
+    {
+        "building_id": "147",
+        "code": "HBK",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/147.jpg",
+        "lat": "38.9881767",
+        "lng": "-76.9415740921482",
+        "name": "Hornbake Library"
+    },
+    {
+        "building_id": "108",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/108.jpg",
+        "lat": "38.9916839",
+        "lng": "-76.9408036631471",
+        "name": "Horse Barn"
+    },
+    {
+        "building_id": "028",
+        "code": "HOW",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/028.jpg",
+        "lat": "38.98196065",
+        "lng": "-76.9419727992265",
+        "name": "Howard Hall (Residence Hall)"
+    },
+    {
+        "building_id": "056",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/056.jpg",
+        "lat": "38.9883195",
+        "lng": "-76.9437313",
+        "name": "HVAC Building"
+    },
+    {
+        "building_id": "309",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/309.jpg",
+        "lat": "38.9896622",
+        "lng": "-76.9543808895367",
+        "name": "Indoor Practice Facility"
+    },
+    {
+        "building_id": "085",
+        "code": "IPT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/085.jpg",
+        "lat": "38.9909191",
+        "lng": "-76.94097235",
+        "name": "Institute for Physical Science and Technology"
+    },
+    {
+        "building_id": "086",
+        "code": "IPT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/086.jpg",
+        "lat": "38.9908276",
+        "lng": "-76.941282950122",
+        "name": "Institute for Physical Science and Technology Storage"
+    },
+    {
+        "building_id": "045",
+        "code": "ITV",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/045.jpg",
+        "lat": "38.98957525",
+        "lng": "-76.9383093000325",
+        "name": "Instructional Television Facility"
+    },
+    {
+        "building_id": "D100",
+        "code": "",
+        "lat": "38.9902169",
+        "lng": "-76.9441988",
+        "name": "J. Logan and Louise Schutz Football Practice Complex"
+    },
+    {
+        "building_id": "388",
+        "code": "",
+        "lat": "38.9878761",
+        "lng": "-76.9505711919375",
+        "name": "J.H. Kehoe Track and Ludwig Field"
+    },
+    {
+        "building_id": "083",
+        "code": "JMP",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/083.jpg",
+        "lat": "38.9905177",
+        "lng": "-76.940295409728",
+        "name": "J.M. Patterson Building"
+    },
+    {
+        "building_id": "225",
+        "code": "KEB",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/225.jpg",
+        "lat": "38.9909099",
+        "lng": "-76.938025589911",
+        "name": "Jeong H. Kim Engineering Building"
+    },
+    {
+        "building_id": "034",
+        "code": "JMZ",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/034.jpg",
+        "lat": "38.9867867",
+        "lng": "-76.94455005",
+        "name": "Jimenez Hall"
+    },
+    {
+        "building_id": "227",
+        "code": "JUL",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/227.jpg",
+        "lat": "38.99087705",
+        "lng": "-76.9435848",
+        "name": "Jull Hall"
+    },
+    {
+        "building_id": "126",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/126.jpg",
+        "lat": "38.98468565",
+        "lng": "-76.936671546034",
+        "name": "Kappa Alpha Fraternity"
+    },
+    {
+        "building_id": "022",
+        "code": "KNT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/022.jpg",
+        "lat": "38.98324525",
+        "lng": "-76.9418433747954",
+        "name": "Kent Hall (Residence Hall)"
+    },
+    {
+        "building_id": "417",
+        "code": "KNI",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/417.jpg",
+        "lat": "38.98677255",
+        "lng": "-76.9484189",
+        "name": "Knight Hall"
+    },
+    {
+        "building_id": "F09",
+        "code": "",
+        "lat": "39.00369935",
+        "lng": "-76.9439779039198",
+        "name": "Laboratory for Physical Sciences"
+    },
+    {
+        "building_id": "F10",
+        "code": "",
+        "lat": "39.00494075",
+        "lng": "-76.943618302473",
+        "name": "Laboratory for Telecommunications Sciences"
+    },
+    {
+        "building_id": "132",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/132.jpg",
+        "lat": "38.98394255",
+        "lng": "-76.9340275582429",
+        "name": "Lamda Chi Alpha Fraternity"
+    },
+    {
+        "building_id": "D101",
+        "code": "",
+        "lat": "38.9925556",
+        "lng": "-76.9449878688894",
+        "name": "LaPlata Beach"
+    },
+    {
+        "building_id": "259",
+        "code": "LPA",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/259.jpg",
+        "lat": "38.9924497",
+        "lng": "-76.9458907104711",
+        "name": "LaPlata Hall (Residence Hall)"
+    },
+    {
+        "building_id": "F11",
+        "code": "",
+        "lat": "38.9996436",
+        "lng": "-76.9413782929899",
+        "name": "LEAFHouse"
+    },
+    {
+        "building_id": "071",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/071.jpg",
+        "lat": "38.9853629",
+        "lng": "-76.9395264",
+        "name": "Lee Building"
+    },
+    {
+        "building_id": "038",
+        "code": "LEF",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/038.jpg",
+        "lat": "38.9836849",
+        "lng": "-76.9436347921034",
+        "name": "LeFrak Hall"
+    },
+    {
+        "building_id": "250",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/250.jpg",
+        "lat": "38.9833564",
+        "lng": "-76.9334623293913",
+        "name": "Leonardtown Community Center"
+    },
+    {
+        "building_id": "238",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/238.jpg",
+        "lat": "38.98288495",
+        "lng": "-76.9329720567893",
+        "name": "Leonardtown Housing"
+    },
+    {
+        "building_id": "249",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/249.jpg",
+        "lat": "38.98369225",
+        "lng": "-76.93322662199752",
+        "name": "Leonardtown Housing3"
+    },
+    {
+        "building_id": "248",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/248.jpg",
+        "lat": "38.98395015",
+        "lng": "-76.9334063277435",
+        "name": "Leonardtown Housing1"
+    },
+    {
+        "building_id": "239",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/239.jpg",
+        "lat": "38.98259145",
+        "lng": "-76.9328295569528",
+        "name": "Leonardtown Housing10"
+    },
+    {
+        "building_id": "244",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/244.jpg",
+        "lat": "38.9848148",
+        "lng": "-76.9337842335381",
+        "name": "Leonardtown Housing12"
+    },
+    {
+        "building_id": "242",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/242.jpg",
+        "lat": "38.9826975",
+        "lng": "-76.932084393545",
+        "name": "Leonardtown Housing2"
+    },
+    {
+        "building_id": "247",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/247.jpg",
+        "lat": "38.9842544",
+        "lng": "-76.9330952978623",
+        "name": "Leonardtown Housing4"
+    },
+    {
+        "building_id": "246",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/246.jpg",
+        "lat": "38.98432445",
+        "lng": "-76.9335417977186",
+        "name": "Leonardtown Housing5"
+    },
+    {
+        "building_id": "245",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/245.jpg",
+        "lat": "38.9846063",
+        "lng": "-76.9333959355818",
+        "name": "Leonardtown Housing6"
+    },
+    {
+        "building_id": "243",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/243.jpg",
+        "lat": "38.98295505",
+        "lng": "-76.9320609074038",
+        "name": "Leonardtown Housing7"
+    },
+    {
+        "building_id": "241",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/241.jpg",
+        "lat": "38.98256985",
+        "lng": "-76.9322669026445",
+        "name": "Leonardtown Housing8"
+    },
+    {
+        "building_id": "240",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/240.jpg",
+        "lat": "38.98269485",
+        "lng": "-76.932593405223",
+        "name": "Leonardtown Housing9"
+    },
+    {
+        "building_id": "201",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/201.jpg",
+        "lat": "38.9837051",
+        "lng": "-76.9324305637608",
+        "name": "Leonardtown Office Building"
+    },
+    {
+        "building_id": "P117",
+        "code": "",
+        "lat": "38.99133375",
+        "lng": "-76.9466368038263",
+        "name": "Lot"
+    },
+    {
+        "building_id": "077",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/077.jpg",
+        "lat": "38.9860173",
+        "lng": "-76.93980935",
+        "name": "Main Administration Building"
+    },
+    {
+        "building_id": "148",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/148.jpg",
+        "lat": "38.99286495",
+        "lng": "-76.9394357215756",
+        "name": "Manufacturing Building"
+    },
+    {
+        "building_id": "046",
+        "code": "MMH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/046.jpg",
+        "lat": "38.9850013",
+        "lng": "-76.94075799224",
+        "name": "Marie Mount Hall"
+    },
+    {
+        "building_id": "088",
+        "code": "EGR",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/088.jpg",
+        "lat": "38.9888688",
+        "lng": "-76.9379744096244",
+        "name": "Martin Hall"
+    },
+    {
+        "building_id": "084",
+        "code": "MTH",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/084.jpg",
+        "lat": "38.98862265",
+        "lng": "-76.9390688130666",
+        "name": "Mathematics Building"
+    },
+    {
+        "building_id": "035",
+        "code": "MCK",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/035.jpg",
+        "lat": "38.98598155",
+        "lng": "-76.9451004712142",
+        "name": "McKeldin Library"
+    },
+    {
+        "building_id": "D106",
+        "code": "MKM",
+        "lat": "38.9859886",
+        "lng": "-76.9422685216793",
+        "name": "McKeldin Mall"
+    },
+    {
+        "building_id": "009",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/009.jpg",
+        "lat": "38.98415015",
+        "lng": "-76.9408661301378",
+        "name": "Memorial Chapel"
+    },
+    {
+        "building_id": "P255",
+        "code": "",
+        "lat": "38.97901515",
+        "lng": "-76.92753801615109",
+        "name": "Metro Parking Garage"
+    },
+    {
+        "building_id": "195",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/195.jpg",
+        "lat": "38.983559",
+        "lng": "-76.9299067182804",
+        "name": "MFRI Drill Tower"
+    },
+    {
+        "building_id": "194",
+        "code": "",
+        "lat": "38.98401155",
+        "lng": "-76.9287741861655",
+        "name": "MFRI Fire Extinguisher Training Facility"
+    },
+    {
+        "building_id": "199",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/199.jpg",
+        "lat": "38.98332815",
+        "lng": "-76.9288594688342",
+        "name": "MFRI Office/Classroom Building"
+    },
+    {
+        "building_id": "196",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/196.jpg",
+        "lat": "38.98365305",
+        "lng": "-76.928304153809",
+        "name": "MFRI Structural Firefighting Building"
+    },
+    {
+        "building_id": "231",
+        "code": "MCB",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/231.jpg",
+        "lat": "38.98811525",
+        "lng": "-76.9434034376443",
+        "name": "Microbiology Building"
+    },
+    {
+        "building_id": "052",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/052.jpg",
+        "lat": "38.98670195",
+        "lng": "-76.9395651325614",
+        "name": "Mitchell Building"
+    },
+    {
+        "building_id": "032",
+        "code": "MNT",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/032.jpg",
+        "lat": "38.9820505",
+        "lng": "-76.9396753369829",
+        "name": "Montgomery Hall (Residence Hall)"
+    },
+    {
+        "building_id": "040",
+        "code": "MOR",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/040.jpg",
+        "lat": "38.9843126",
+        "lng": "-76.944173786884",
+        "name": "Morrill Hall"
+    },
+    {
+        "building_id": "011",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/011.jpg",
+        "lat": "38.98618425",
+        "lng": "-76.9336288120943",
+        "name": "Motor Transportation Facility"
+    },
+    {
+        "building_id": "020",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/020.jpg",
+        "lat": "38.98564745",
+        "lng": "-76.9361307352417",
+        "name": "Motorcycle Storage Building"
+    },
+    {
+        "building_id": "404",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/404.jpg",
+        "lat": "38.98182585",
+        "lng": "-76.9455747840072",
+        "name": "Mowatt Lane Parking Garage"
+    },
+    {
+        "building_id": "400",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/400.jpg",
+        "lat": "38.98371275",
+        "lng": "-76.9477371",
+        "name": "Mowatt Lane Substation"
+    },
+    {
+        "building_id": "382",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/382.jpg",
+        "lat": "38.99288895",
+        "lng": "-76.9389810221139",
+        "name": "Neutral Buoyancy Research Facility"
+    },
+    {
+        "building_id": "F04",
+        "code": "",
+        "lat": "38.97199165",
+        "lng": "-76.9247140879834",
+        "name": "NOAA Center for Weather and Climate Prediction"
+    },
+    {
+        "building_id": "232",
+        "code": "NCC",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/232.jpg",
+        "lat": "38.9881339",
+        "lng": "-76.9438057866404",
+        "name": "Nyumburu Cultural Center"
+    },
+    {
+        "building_id": "419",
+        "code": "",
+        "lat": "38.9938547",
+        "lng": "-76.9492226797435",
+        "name": "Oakland Hall (Residence Hall)"
+    },
+    {
+        "building_id": "P194",
+        "code": "",
+        "lat": "38.99197045",
+        "lng": "-76.9376652129763",
+        "name": "Paint Branch Drive Visitors Lot"
+    },
+    {
+        "building_id": "P100",
+        "code": "",
+        "lat": "38.9937827",
+        "lng": "-76.9362203954441",
+        "name": "Parking Lot 11b"
+    },
+    {
+        "building_id": "P101",
+        "code": "",
+        "lat": "38.99389735",
+        "lng": "-76.93793265456",
+        "name": "Parking Lot 11c"
+    },
+    {
+        "building_id": "P102",
+        "code": "",
+        "lat": "38.98254495",
+        "lng": "-76.9353551969982",
+        "name": "Parking Lot 11h"
+    },
+    {
+        "building_id": "P103",
+        "code": "",
+        "lat": "38.9810048",
+        "lng": "-76.9357555594133",
+        "name": "Parking Lot 15"
+    },
+    {
+        "building_id": "P104",
+        "code": "",
+        "lat": "38.98352975",
+        "lng": "-76.93612975",
+        "name": "Parking Lot 16a"
+    },
+    {
+        "building_id": "P105",
+        "code": "",
+        "lat": "38.9830317",
+        "lng": "-76.9364642095338",
+        "name": "Parking Lot 16b"
+    },
+    {
+        "building_id": "P106",
+        "code": "",
+        "lat": "38.98323445",
+        "lng": "-76.9319854884635",
+        "name": "Parking Lot 16c"
+    },
+    {
+        "building_id": "P107",
+        "code": "",
+        "lat": "38.98234055",
+        "lng": "-76.9323682",
+        "name": "Parking Lot 16d"
+    },
+    {
+        "building_id": "P108",
+        "code": "",
+        "lat": "38.982799",
+        "lng": "-76.933294157523",
+        "name": "Parking Lot 16e"
+    },
+    {
+        "building_id": "P109",
+        "code": "",
+        "lat": "38.9831728",
+        "lng": "-76.9339050233523",
+        "name": "Parking lot 16f"
+    },
+    {
+        "building_id": "P110",
+        "code": "",
+        "lat": "38.98314145",
+        "lng": "-76.9315366103807",
+        "name": "Parking Lot 16h"
+    },
+    {
+        "building_id": "P253",
+        "code": "",
+        "lat": "38.98196015",
+        "lng": "-76.94504517113101",
+        "name": "Parking Lot 19"
+    },
+    {
+        "building_id": "P111",
+        "code": "",
+        "lat": "38.9870827",
+        "lng": "-76.9494408398075",
+        "name": "Parking Lot 1b"
+    },
+    {
+        "building_id": "P112",
+        "code": "",
+        "lat": "38.9861006",
+        "lng": "-76.9506524287848",
+        "name": "Parking Lot 1d"
+    },
+    {
+        "building_id": "P113",
+        "code": "",
+        "lat": "38.99420335",
+        "lng": "-76.9481586165606",
+        "name": "Parking Lot 2a"
+    },
+    {
+        "building_id": "P114",
+        "code": "",
+        "lat": "38.9931883",
+        "lng": "-76.9505459201508",
+        "name": "Parking Lot 2b"
+    },
+    {
+        "building_id": "P115",
+        "code": "",
+        "lat": "38.99230265",
+        "lng": "-76.9477756507565",
+        "name": "Parking Lot 2c"
+    },
+    {
+        "building_id": "P116",
+        "code": "",
+        "lat": "38.99238785",
+        "lng": "-76.9455376145164",
+        "name": "Parking Lot 2d"
+    },
+    {
+        "building_id": "P118",
+        "code": "",
+        "lat": "38.99257355",
+        "lng": "-76.9414993575919",
+        "name": "Parking Lot 2f"
+    },
+    {
+        "building_id": "P236",
+        "code": "",
+        "lat": "38.99440375",
+        "lng": "-76.9472887836851",
+        "name": "Parking Lot 2g"
+    },
+    {
+        "building_id": "P121",
+        "code": "",
+        "lat": "38.9970546",
+        "lng": "-76.9411816982757",
+        "name": "Parking Lot 4b"
+    },
+    {
+        "building_id": "P124",
+        "code": "",
+        "lat": "38.99721475",
+        "lng": "-76.939228467483",
+        "name": "Parking Lot 4j"
+    },
+    {
+        "building_id": "P234",
+        "code": "",
+        "lat": "38.9975986",
+        "lng": "-76.9432485836194",
+        "name": "Parking Lot 4n"
+    },
+    {
+        "building_id": "P126",
+        "code": "",
+        "lat": "38.9897447",
+        "lng": "-76.9409605",
+        "name": "Parking Lot 5"
+    },
+    {
+        "building_id": "P127",
+        "code": "",
+        "lat": "38.9948837",
+        "lng": "-76.9441223999729",
+        "name": "Parking Lot 6"
+    },
+    {
+        "building_id": "P128",
+        "code": "",
+        "lat": "38.99443435",
+        "lng": "-76.9379480992313",
+        "name": "Parking Lot 9b"
+    },
+    {
+        "building_id": "P129",
+        "code": "",
+        "lat": "38.994263",
+        "lng": "-76.9392026889215",
+        "name": "Parking Lot 9c"
+    },
+    {
+        "building_id": "P130",
+        "code": "",
+        "lat": "38.98430415",
+        "lng": "-76.9445554411228",
+        "name": "Parking Lot A"
+    },
+    {
+        "building_id": "P131",
+        "code": "",
+        "lat": "38.9862722",
+        "lng": "-76.94812275",
+        "name": "Parking Lot A*1"
+    },
+    {
+        "building_id": "P135",
+        "code": "",
+        "lat": "38.98961455",
+        "lng": "-76.9409603",
+        "name": "Parking Lot B"
+    },
+    {
+        "building_id": "P136",
+        "code": "",
+        "lat": "38.98868945",
+        "lng": "-76.9437432752211",
+        "name": "Parking Lot BB"
+    },
+    {
+        "building_id": "P137",
+        "code": "",
+        "lat": "38.98662605",
+        "lng": "-76.9373082470676",
+        "name": "Parking Lot C1"
+    },
+    {
+        "building_id": "P138",
+        "code": "",
+        "lat": "38.98525575",
+        "lng": "-76.9386466960901",
+        "name": "Parking Lot C2"
+    },
+    {
+        "building_id": "P140",
+        "code": "",
+        "lat": "38.99236635",
+        "lng": "-76.9395347604447",
+        "name": "Parking Lot CC1"
+    },
+    {
+        "building_id": "P141",
+        "code": "",
+        "lat": "38.9916206",
+        "lng": "-76.940687",
+        "name": "Parking Lot CC2"
+    },
+    {
+        "building_id": "P143",
+        "code": "",
+        "lat": "38.98512635",
+        "lng": "-76.94503695",
+        "name": "Parking Lot D"
+    },
+    {
+        "building_id": "P257",
+        "code": "",
+        "lat": "38.98552325",
+        "lng": "-76.9453188124738",
+        "name": "Parking Lot D"
+    },
+    {
+        "building_id": "P125",
+        "code": "",
+        "lat": "38.98927645",
+        "lng": "-76.9371846",
+        "name": "Parking Lot E"
+    },
+    {
+        "building_id": "P146",
+        "code": "",
+        "lat": "38.98895295",
+        "lng": "-76.93950635",
+        "name": "Parking Lot E*1"
+    },
+    {
+        "building_id": "P147",
+        "code": "",
+        "lat": "38.98936235",
+        "lng": "-76.93874685",
+        "name": "Parking Lot E*2"
+    },
+    {
+        "building_id": "P148",
+        "code": "",
+        "lat": "38.98956665",
+        "lng": "-76.93777255",
+        "name": "Parking Lot EE"
+    },
+    {
+        "building_id": "P149",
+        "code": "",
+        "lat": "38.98280315",
+        "lng": "-76.9362193313411",
+        "name": "Parking Lot F"
+    },
+    {
+        "building_id": "P150",
+        "code": "",
+        "lat": "38.99431135",
+        "lng": "-76.9399114407625",
+        "name": "Parking Lot FF"
+    },
+    {
+        "building_id": "P151",
+        "code": "",
+        "lat": "38.9931298",
+        "lng": "-76.9392185247061",
+        "name": "Parking Lot FF2"
+    },
+    {
+        "building_id": "P258",
+        "code": "",
+        "lat": "38.9919303",
+        "lng": "-76.9385438831386",
+        "name": "Parking Lot G"
+    },
+    {
+        "building_id": "P152",
+        "code": "",
+        "lat": "38.98714445",
+        "lng": "-76.9408901957625",
+        "name": "Parking Lot H1"
+    },
+    {
+        "building_id": "P155",
+        "code": "",
+        "lat": "38.9871964",
+        "lng": "-76.9437705364812",
+        "name": "Parking Lot HH1"
+    },
+    {
+        "building_id": "P156",
+        "code": "",
+        "lat": "38.99179395",
+        "lng": "-76.9487217884698",
+        "name": "Parking Lot HH2"
+    },
+    {
+        "building_id": "P158",
+        "code": "",
+        "lat": "38.99243845",
+        "lng": "-76.9369211101377",
+        "name": "Parking Lot I*"
+    },
+    {
+        "building_id": "P239",
+        "code": "",
+        "lat": "38.9896806",
+        "lng": "-76.93916665",
+        "name": "Parking Lot II1"
+    },
+    {
+        "building_id": "P159",
+        "code": "",
+        "lat": "38.98539355",
+        "lng": "-76.9483331340347",
+        "name": "Parking Lot JJ1"
+    },
+    {
+        "building_id": "P160",
+        "code": "",
+        "lat": "38.9850641",
+        "lng": "-76.9493049661468",
+        "name": "Parking Lot JJ2"
+    },
+    {
+        "building_id": "P241",
+        "code": "",
+        "lat": "38.98614505",
+        "lng": "-76.9491042944466",
+        "name": "Parking Lot JJ3"
+    },
+    {
+        "building_id": "P162",
+        "code": "",
+        "lat": "38.98664725",
+        "lng": "-76.936078711566",
+        "name": "Parking Lot K*2"
+    },
+    {
+        "building_id": "P163",
+        "code": "",
+        "lat": "38.986413",
+        "lng": "-76.9348330271331",
+        "name": "Parking Lot K*4"
+    },
+    {
+        "building_id": "P250",
+        "code": "",
+        "lat": "38.98521105",
+        "lng": "-76.9349324800649",
+        "name": "Parking Lot K*5"
+    },
+    {
+        "building_id": "P164",
+        "code": "",
+        "lat": "4719533.97406",
+        "lng": "-8564367.45346",
+        "name": "Parking Lot K1"
+    },
+    {
+        "building_id": "P165",
+        "code": "",
+        "lat": "38.98554405",
+        "lng": "-76.9346156087241",
+        "name": "Parking Lot K2"
+    },
+    {
+        "building_id": "P235",
+        "code": "",
+        "lat": "38.99640555",
+        "lng": "-76.9429211998132",
+        "name": "Parking Lot K4"
+    },
+    {
+        "building_id": "P167",
+        "code": "",
+        "lat": "38.98296465",
+        "lng": "-76.9363026926599",
+        "name": "Parking Lot K5"
+    },
+    {
+        "building_id": "P168",
+        "code": "",
+        "lat": "38.99083205",
+        "lng": "-76.9548861803616",
+        "name": "Parking Lot K6"
+    },
+    {
+        "building_id": "P169",
+        "code": "",
+        "lat": "38.99074565",
+        "lng": "-76.939126849749",
+        "name": "Parking Lot KK"
+    },
+    {
+        "building_id": "P237",
+        "code": "",
+        "lat": "38.99103585",
+        "lng": "-76.9390710660194",
+        "name": "Parking Lot KK1"
+    },
+    {
+        "building_id": "P170",
+        "code": "",
+        "lat": "38.985601",
+        "lng": "-76.9390440880309",
+        "name": "Parking Lot L"
+    },
+    {
+        "building_id": "P171",
+        "code": "",
+        "lat": "38.98602365",
+        "lng": "-76.9395731763922",
+        "name": "Parking Lot L*"
+    },
+    {
+        "building_id": "P254",
+        "code": "",
+        "lat": "38.9820502",
+        "lng": "-76.94504546108689",
+        "name": "Parking Lot ML*"
+    },
+    {
+        "building_id": "P172",
+        "code": "",
+        "lat": "38.99208515",
+        "lng": "-76.9442824224091",
+        "name": "Parking Lot MM1"
+    },
+    {
+        "building_id": "P173",
+        "code": "",
+        "lat": "38.9924268",
+        "lng": "-76.9416584717757",
+        "name": "Parking Lot MM2"
+    },
+    {
+        "building_id": "P174",
+        "code": "",
+        "lat": "38.99134275",
+        "lng": "-76.94307075",
+        "name": "Parking Lot MM3"
+    },
+    {
+        "building_id": "P178",
+        "code": "",
+        "lat": "38.992758",
+        "lng": "-76.9483259502209",
+        "name": "Parking Lot N"
+    },
+    {
+        "building_id": "P177",
+        "code": "",
+        "lat": "38.99315285",
+        "lng": "-76.9496207605017",
+        "name": "Parking Lot N*"
+    },
+    {
+        "building_id": "P183",
+        "code": "",
+        "lat": "38.99306485",
+        "lng": "-76.9488709100114",
+        "name": "Parking Lot N*"
+    },
+    {
+        "building_id": "P246",
+        "code": "",
+        "lat": "38.982763",
+        "lng": "-76.9399408810552",
+        "name": "Parking Lot N*1"
+    },
+    {
+        "building_id": "P175",
+        "code": "",
+        "lat": "38.98243265",
+        "lng": "-76.9388435512149",
+        "name": "Parking Lot N*2"
+    },
+    {
+        "building_id": "P176",
+        "code": "",
+        "lat": "38.9826911",
+        "lng": "-76.943423876098",
+        "name": "Parking Lot N*3"
+    },
+    {
+        "building_id": "P179",
+        "code": "",
+        "lat": "38.9927533",
+        "lng": "-76.9455457475625",
+        "name": "Parking Lot N3"
+    },
+    {
+        "building_id": "P180",
+        "code": "",
+        "lat": "38.9925133",
+        "lng": "-76.94428505",
+        "name": "Parking Lot N4"
+    },
+    {
+        "building_id": "P181",
+        "code": "",
+        "lat": "38.9835147",
+        "lng": "-76.9321558294979",
+        "name": "Parking Lot N5"
+    },
+    {
+        "building_id": "P182",
+        "code": "",
+        "lat": "38.9925869",
+        "lng": "-76.9477738109564",
+        "name": "Parking Lot N7"
+    },
+    {
+        "building_id": "P184",
+        "code": "",
+        "lat": "38.99306985",
+        "lng": "-76.946957493951",
+        "name": "Parking Lot N9"
+    },
+    {
+        "building_id": "P185",
+        "code": "",
+        "lat": "38.98399525",
+        "lng": "-76.94791655",
+        "name": "Parking Lot O1"
+    },
+    {
+        "building_id": "P187",
+        "code": "",
+        "lat": "38.98442185",
+        "lng": "-76.9483002446715",
+        "name": "Parking Lot O3"
+    },
+    {
+        "building_id": "P188",
+        "code": "",
+        "lat": "38.9843053",
+        "lng": "-76.9462971999815",
+        "name": "Parking Lot O4"
+    },
+    {
+        "building_id": "P189",
+        "code": "",
+        "lat": "38.98355155",
+        "lng": "-76.9477835",
+        "name": "Parking Lot O5"
+    },
+    {
+        "building_id": "P191",
+        "code": "",
+        "lat": "38.9981942",
+        "lng": "-76.94270605",
+        "name": "Parking Lot P*"
+    },
+    {
+        "building_id": "003",
+        "code": "",
+        "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/003.jpg",
+        "lat": "38.98597645",
+        "lng": "-76.9361406358543",
+        "name": "Service Building (University of Maryland, Police)"
+    }
+]
