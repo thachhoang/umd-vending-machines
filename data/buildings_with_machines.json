@@ -1,1739 +1,2400 @@
 [
   {
-    "building_id": "003",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/003.jpg",
-    "lat": "38.98597645",
-    "lng": "-76.9361406358543",
-    "locations": [
-      {
-        "location": "1304",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Service Building (University of Maryland, Police)"
+    "geometry": {
+      "coordinates": [
+        -76.9361406358543,
+        38.98597645
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "003",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/003.jpg",
+      "lat": "38.98597645",
+      "lng": "-76.9361406358543",
+      "locations": [
+        {
+          "location": "1304",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Service Building (University of Maryland, Police)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=003"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "010",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/010.jpg",
-    "lat": "38.98863025",
-    "lng": "-76.943483756875",
-    "locations": [
-      {
-        "location": "Room 0108",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Oceanspray Juice / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Patuxent Building"
+    "geometry": {
+      "coordinates": [
+        -76.943483756875,
+        38.98863025
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "010",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/010.jpg",
+      "lat": "38.98863025",
+      "lng": "-76.943483756875",
+      "locations": [
+        {
+          "location": "Room 0108",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Oceanspray Juice / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Patuxent Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=010"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "017",
-    "code": "CEC",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/017.jpg",
-    "lat": "38.9829463",
-    "lng": "-76.9416573737624",
-    "locations": [
-      {
-        "location": "Laundry Room",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Cecil Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9416573737624,
+        38.9829463
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "017",
+      "code": "CEC",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/017.jpg",
+      "lat": "38.9829463",
+      "lng": "-76.9416573737624",
+      "locations": [
+        {
+          "location": "Laundry Room",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Cecil Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=017"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "034",
-    "code": "JMZ",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/034.jpg",
-    "lat": "38.9867867",
-    "lng": "-76.94455005",
-    "locations": [
-      {
-        "location": "0102",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0102",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Jimenez Hall"
+    "geometry": {
+      "coordinates": [
+        -76.94455005,
+        38.9867867
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "034",
+      "code": "JMZ",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/034.jpg",
+      "lat": "38.9867867",
+      "lng": "-76.94455005",
+      "locations": [
+        {
+          "location": "0102",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0102",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Jimenez Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=034"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "035",
-    "code": "MCK",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/035.jpg",
-    "lat": "38.98598155",
-    "lng": "-76.9451004712142",
-    "locations": [
-      {
-        "location": "Next to Footnotes Cafe on First Floor",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          },
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      }
-    ],
-    "name": "McKeldin Library"
+    "geometry": {
+      "coordinates": [
+        -76.9451004712142,
+        38.98598155
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "035",
+      "code": "MCK",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/035.jpg",
+      "lat": "38.98598155",
+      "lng": "-76.9451004712142",
+      "locations": [
+        {
+          "location": "Next to Footnotes Cafe on First Floor",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            },
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        }
+      ],
+      "name": "McKeldin Library",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=035"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "036",
-    "code": "PLS",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/036.jpg",
-    "lat": "38.98873715",
-    "lng": "-76.9413596237531",
-    "locations": [
-      {
-        "location": "1103",
-        "machines": [
-          {
-            "count": 2,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "2161",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          }
-        ]
-      }
-    ],
-    "name": "Plant Science Building"
+    "geometry": {
+      "coordinates": [
+        -76.9413596237531,
+        38.98873715
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "036",
+      "code": "PLS",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/036.jpg",
+      "lat": "38.98873715",
+      "lng": "-76.9413596237531",
+      "locations": [
+        {
+          "location": "1103",
+          "machines": [
+            {
+              "count": 2,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "2161",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            }
+          ]
+        }
+      ],
+      "name": "Plant Science Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=036"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "038",
-    "code": "LEF",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/038.jpg",
-    "lat": "38.9836849",
-    "lng": "-76.9436347921034",
-    "locations": [
-      {
-        "location": "rm 2220",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "0107",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Oceanspray"
-          }
-        ]
-      },
-      {
-        "location": "2220",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "LeFrak Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9436347921034,
+        38.9836849
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "038",
+      "code": "LEF",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/038.jpg",
+      "lat": "38.9836849",
+      "lng": "-76.9436347921034",
+      "locations": [
+        {
+          "location": "rm 2220",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "0107",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Oceanspray"
+            }
+          ]
+        },
+        {
+          "location": "2220",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "LeFrak Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=038"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "039",
-    "code": "VMH",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/039.jpg",
-    "lat": "38.9830467",
-    "lng": "-76.9470382916646",
-    "locations": [
-      {
-        "location": "1203",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      }
-    ],
-    "name": "Van Munching Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9470382916646,
+        38.9830467
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "039",
+      "code": "VMH",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/039.jpg",
+      "lat": "38.9830467",
+      "lng": "-76.9470382916646",
+      "locations": [
+        {
+          "location": "1203",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        }
+      ],
+      "name": "Van Munching Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=039"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "042",
-    "code": "TYD",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/042.jpg",
-    "lat": "38.9848516",
-    "lng": "-76.9440007655894",
-    "locations": [
-      {
-        "location": "By rm. 0102 in vending lobby",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          },
-          {
-            "count": 2,
-            "name": "GlFrB"
-          }
-        ]
-      },
-      {
-        "location": "0108",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      }
-    ],
-    "name": "Tydings Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9440007655894,
+        38.9848516
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "042",
+      "code": "TYD",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/042.jpg",
+      "lat": "38.9848516",
+      "lng": "-76.9440007655894",
+      "locations": [
+        {
+          "location": "By rm. 0102 in vending lobby",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            },
+            {
+              "count": 2,
+              "name": "GlFrB"
+            }
+          ]
+        },
+        {
+          "location": "0108",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        }
+      ],
+      "name": "Tydings Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=042"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "044",
-    "code": "SKN",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/044.jpg",
-    "lat": "38.98480955",
-    "lng": "-76.9418413304917",
-    "locations": [
-      {
-        "location": "0200 Downstairs Hallway",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 1114",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Skinner Building"
+    "geometry": {
+      "coordinates": [
+        -76.9418413304917,
+        38.98480955
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "044",
+      "code": "SKN",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/044.jpg",
+      "lat": "38.98480955",
+      "lng": "-76.9418413304917",
+      "locations": [
+        {
+          "location": "0200 Downstairs Hallway",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 1114",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Skinner Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=044"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "046",
-    "code": "MMH",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/046.jpg",
-    "lat": "38.9850013",
-    "lng": "-76.94075799224",
-    "locations": [
-      {
-        "location": "By rm. 0197",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0102",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Marie Mount Hall"
+    "geometry": {
+      "coordinates": [
+        -76.94075799224,
+        38.9850013
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "046",
+      "code": "MMH",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/046.jpg",
+      "lat": "38.9850013",
+      "lng": "-76.94075799224",
+      "locations": [
+        {
+          "location": "By rm. 0197",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0102",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Marie Mount Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=046"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "048",
-    "code": "KEY",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/048.jpg",
-    "lat": "38.98506175",
-    "lng": "-76.9430892753028",
-    "locations": [
-      {
-        "location": "By rm. 0111",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      },
-      {
-        "location": "1st flr catwalk",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Francis Scott Key Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9430892753028,
+        38.98506175
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "048",
+      "code": "KEY",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/048.jpg",
+      "lat": "38.98506175",
+      "lng": "-76.9430892753028",
+      "locations": [
+        {
+          "location": "By rm. 0111",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        },
+        {
+          "location": "1st flr catwalk",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Francis Scott Key Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=048"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "051",
-    "code": "WOR",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/051.jpg",
-    "lat": "38.98467285",
-    "lng": "-76.9449993420465",
-    "locations": [
-      {
-        "location": "Basement",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Worchester Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9449993420465,
+        38.98467285
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "051",
+      "code": "WOR",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/051.jpg",
+      "lat": "38.98467285",
+      "lng": "-76.9449993420465",
+      "locations": [
+        {
+          "location": "Basement",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Worchester Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=051"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "054",
-    "code": "PKT",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/054.jpg",
-    "lat": "38.9844511",
-    "lng": "-76.9461320708538",
-    "locations": [
-      {
-        "location": "1112",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Preinkert Field House"
+    "geometry": {
+      "coordinates": [
+        -76.9461320708538,
+        38.9844511
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "054",
+      "code": "PKT",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/054.jpg",
+      "lat": "38.9844511",
+      "lng": "-76.9461320708538",
+      "locations": [
+        {
+          "location": "1112",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Preinkert Field House",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=054"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "065",
-    "code": "CRL",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/065.jpg",
-    "lat": "38.9839834",
-    "lng": "-76.9456253332123",
-    "locations": [
-      {
-        "location": "1194",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Caroll Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9456253332123,
+        38.9839834
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "065",
+      "code": "CRL",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/065.jpg",
+      "lat": "38.9839834",
+      "lng": "-76.9456253332123",
+      "locations": [
+        {
+          "location": "1194",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Caroll Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=065"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "068",
-    "code": "CRC",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/068.jpg",
-    "lat": "38.99358165",
-    "lng": "-76.9452703132821",
-    "locations": [
-      {
-        "location": "Across from Sneakers Caf\\xc3\\xa9",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          },
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      }
-    ],
-    "name": "Eppley Campus Recreation Center"
+    "geometry": {
+      "coordinates": [
+        -76.9452703132821,
+        38.99358165
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "068",
+      "code": "CRC",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/068.jpg",
+      "lat": "38.99358165",
+      "lng": "-76.9452703132821",
+      "locations": [
+        {
+          "location": "Across from Sneakers Caf\\xc3\\xa9",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            },
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        }
+      ],
+      "name": "Eppley Campus Recreation Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=068"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "070",
-    "code": "CAR",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/070.jpg",
-    "lat": "38.9834966",
-    "lng": "-76.9457925",
-    "locations": [
-      {
-        "location": "1107",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Caroline Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9457925,
+        38.9834966
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "070",
+      "code": "CAR",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/070.jpg",
+      "lat": "38.9834966",
+      "lng": "-76.9457925",
+      "locations": [
+        {
+          "location": "1107",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Caroline Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=070"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "071",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/071.jpg",
-    "lat": "38.9853629",
-    "lng": "-76.9395264",
-    "locations": [
-      {
-        "location": "Exterior Door by lobby 1121",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Lee Building"
+    "geometry": {
+      "coordinates": [
+        -76.9395264,
+        38.9853629
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "071",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/071.jpg",
+      "lat": "38.9853629",
+      "lng": "-76.9395264",
+      "locations": [
+        {
+          "location": "Exterior Door by lobby 1121",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Lee Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=071"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "074",
-    "code": "HZF",
-    "lat": "38.98687755",
-    "lng": "-76.9418893729789",
-    "locations": [
-      {
-        "location": "0124",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Oceanspray Juice"
-          }
-        ]
-      }
-    ],
-    "name": "Holzapfel Hall (Horticulture)"
+    "geometry": {
+      "coordinates": [
+        -76.9418893729789,
+        38.98687755
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "074",
+      "code": "HZF",
+      "lat": "38.98687755",
+      "lng": "-76.9418893729789",
+      "locations": [
+        {
+          "location": "0124",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Oceanspray Juice"
+            }
+          ]
+        }
+      ],
+      "name": "Holzapfel Hall (Horticulture)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=074"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "076",
-    "code": "SYM",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/076.jpg",
-    "lat": "38.9870811",
-    "lng": "-76.9406455474374",
-    "locations": [
-      {
-        "location": "Near rm. 0209",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Symons Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9406455474374,
+        38.9870811
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "076",
+      "code": "SYM",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/076.jpg",
+      "lat": "38.9870811",
+      "lng": "-76.9406455474374",
+      "locations": [
+        {
+          "location": "Near rm. 0209",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Symons Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=076"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "077",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/077.jpg",
-    "lat": "38.9860173",
-    "lng": "-76.93980935",
-    "locations": [
-      {
-        "location": "0127",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "Near rm. 0127",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Main Administration Building"
+    "geometry": {
+      "coordinates": [
+        -76.93980935,
+        38.9860173
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "077",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/077.jpg",
+      "lat": "38.9860173",
+      "lng": "-76.93980935",
+      "locations": [
+        {
+          "location": "0127",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "Near rm. 0127",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Main Administration Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=077"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "078",
-    "code": "ARM",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/078.jpg",
-    "lat": "38.9860268",
-    "lng": "-76.9389662139866",
-    "locations": [
-      {
-        "location": "0121 (Ground Level Vending)",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "Ground Level Vending 0121",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "Ground Level Vending rm. 0121",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Gatorade"
-          }
-        ]
-      }
-    ],
-    "name": "Reckord Armory"
+    "geometry": {
+      "coordinates": [
+        -76.9389662139866,
+        38.9860268
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "078",
+      "code": "ARM",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/078.jpg",
+      "lat": "38.9860268",
+      "lng": "-76.9389662139866",
+      "locations": [
+        {
+          "location": "0121 (Ground Level Vending)",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "Ground Level Vending 0121",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "Ground Level Vending rm. 0121",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Gatorade"
+            }
+          ]
+        }
+      ],
+      "name": "Reckord Armory",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=078"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "082",
-    "code": "PHY",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/082.jpg",
-    "lat": "38.9886972",
-    "lng": "-76.94007719774",
-    "locations": [
-      {
-        "location": "Room 1322",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "First Floor Loading Dock",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Physics Building"
+    "geometry": {
+      "coordinates": [
+        -76.94007719774,
+        38.9886972
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "082",
+      "code": "PHY",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/082.jpg",
+      "lat": "38.9886972",
+      "lng": "-76.94007719774",
+      "locations": [
+        {
+          "location": "Room 1322",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "First Floor Loading Dock",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Physics Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=082"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "083",
-    "code": "JMP",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/083.jpg",
-    "lat": "38.9905177",
-    "lng": "-76.940295409728",
-    "locations": [
-      {
-        "location": "rm 1125",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "J.M. Patterson Building"
+    "geometry": {
+      "coordinates": [
+        -76.940295409728,
+        38.9905177
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "083",
+      "code": "JMP",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/083.jpg",
+      "lat": "38.9905177",
+      "lng": "-76.940295409728",
+      "locations": [
+        {
+          "location": "rm 1125",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "J.M. Patterson Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=083"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "084",
-    "code": "MTH",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/084.jpg",
-    "lat": "38.98862265",
-    "lng": "-76.9390688130666",
-    "locations": [
-      {
-        "location": "Room 1497",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "Room 1497 - GlassFront Assorted Beverages",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Mathematics Building"
+    "geometry": {
+      "coordinates": [
+        -76.9390688130666,
+        38.98862265
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "084",
+      "code": "MTH",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/084.jpg",
+      "lat": "38.98862265",
+      "lng": "-76.9390688130666",
+      "locations": [
+        {
+          "location": "Room 1497",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "Room 1497 - GlassFront Assorted Beverages",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Mathematics Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=084"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "088",
-    "code": "EGR",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/088.jpg",
-    "lat": "38.9888688",
-    "lng": "-76.9379744096244",
-    "locations": [
-      {
-        "location": "Room 0102",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "3498",
-        "machines": [
-          {
-            "count": 1,
-            "name": "12 oz. Can Carbonated Soda Drink"
-          }
-        ]
-      },
-      {
-        "location": "Elevator Lobby Room 1498",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 2119",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By. rm 3124",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0132",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 3498",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "In walkway by elevator (1498)",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0102",
-        "machines": [
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0498",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Martin Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9379744096244,
+        38.9888688
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "088",
+      "code": "EGR",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/088.jpg",
+      "lat": "38.9888688",
+      "lng": "-76.9379744096244",
+      "locations": [
+        {
+          "location": "Room 0102",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "3498",
+          "machines": [
+            {
+              "count": 1,
+              "name": "12 oz. Can Carbonated Soda Drink"
+            }
+          ]
+        },
+        {
+          "location": "Elevator Lobby Room 1498",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 2119",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By. rm 3124",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0132",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 3498",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "In walkway by elevator (1498)",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0102",
+          "machines": [
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0498",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Martin Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=088"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "089",
-    "code": "EGL",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/089.jpg",
-    "lat": "38.98926235",
-    "lng": "-76.9379467111811",
-    "locations": [
-      {
-        "location": "1126",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 1184",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Engineering Laboratory Building"
+    "geometry": {
+      "coordinates": [
+        -76.9379467111811,
+        38.98926235
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "089",
+      "code": "EGL",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/089.jpg",
+      "lat": "38.98926235",
+      "lng": "-76.9379467111811",
+      "locations": [
+        {
+          "location": "1126",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 1184",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Engineering Laboratory Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=089"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "090",
-    "code": "CHE",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/090.jpg",
-    "lat": "38.99060895",
-    "lng": "-76.9395374654513",
-    "locations": [
-      {
-        "location": "By rm. 1145",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 1116",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Chemical and Nuclear Engineering Building"
+    "geometry": {
+      "coordinates": [
+        -76.9395374654513,
+        38.99060895
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "090",
+      "code": "CHE",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/090.jpg",
+      "lat": "38.99060895",
+      "lng": "-76.9395374654513",
+      "locations": [
+        {
+          "location": "By rm. 1145",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 1116",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Chemical and Nuclear Engineering Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=090"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "091",
-    "code": "CHM",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/091.jpg",
-    "lat": "38.98959475",
-    "lng": "-76.940171718657",
-    "locations": [
-      {
-        "location": "By rm. 0215",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 2125",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0203",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "By rm. B0127",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 1125",
-        "machines": [
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 0195",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Chemistry Building"
+    "geometry": {
+      "coordinates": [
+        -76.940171718657,
+        38.98959475
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "091",
+      "code": "CHM",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/091.jpg",
+      "lat": "38.98959475",
+      "lng": "-76.940171718657",
+      "locations": [
+        {
+          "location": "By rm. 0215",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 2125",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0203",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "By rm. B0127",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 1125",
+          "machines": [
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 0195",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Chemistry Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=091"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "092",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/092.jpg",
-    "lat": "38.9903918",
-    "lng": "-76.93830195",
-    "locations": [
-      {
-        "location": "By rm. 1104",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Potomac Building"
+    "geometry": {
+      "coordinates": [
+        -76.93830195,
+        38.9903918
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "092",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/092.jpg",
+      "lat": "38.9903918",
+      "lng": "-76.93830195",
+      "locations": [
+        {
+          "location": "By rm. 1104",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Potomac Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=092"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "115",
-    "code": "AVW",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/115.jpg",
-    "lat": "38.99079905",
-    "lng": "-76.9363418604721",
-    "locations": [
-      {
-        "location": "1st fl. Main Enterance",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      },
-      {
-        "location": "3rd Floor/Elevator 3817",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "A.V. Williams Building"
+    "geometry": {
+      "coordinates": [
+        -76.9363418604721,
+        38.99079905
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "115",
+      "code": "AVW",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/115.jpg",
+      "lat": "38.99079905",
+      "lng": "-76.9363418604721",
+      "locations": [
+        {
+          "location": "1st fl. Main Enterance",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        },
+        {
+          "location": "3rd Floor/Elevator 3817",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "A.V. Williams Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=115"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "122",
-    "code": "CBD",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/122.jpg",
-    "lat": "38.9922614",
-    "lng": "-76.9439244117559",
-    "locations": [
-      {
-        "location": "Vending Bank",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Cumberland Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9439244117559,
+        38.9922614
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "122",
+      "code": "CBD",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/122.jpg",
+      "lat": "38.9922614",
+      "lng": "-76.9439244117559",
+      "locations": [
+        {
+          "location": "Vending Bank",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Cumberland Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=122"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "140",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/140.jpg",
-    "lat": "38.9872158",
-    "lng": "-76.9447460619769",
-    "locations": [
-      {
-        "location": "rm 0118",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "Inside of rm. 0124",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Health Center"
+    "geometry": {
+      "coordinates": [
+        -76.9447460619769,
+        38.9872158
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "140",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/140.jpg",
+      "lat": "38.9872158",
+      "lng": "-76.9447460619769",
+      "locations": [
+        {
+          "location": "rm 0118",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "Inside of rm. 0124",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Health Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=140"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "141",
-    "code": "TWS",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/141.jpg",
-    "lat": "38.98598645",
-    "lng": "-76.9483238494655",
-    "locations": [
-      {
-        "location": "2sr Flr",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      },
-      {
-        "location": "Ground Floor Alcove",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 1116",
-        "machines": [
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      },
-      {
-        "location": "Ground floor side lobby",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      }
-    ],
-    "name": "Tawes Fine Arts Building"
+    "geometry": {
+      "coordinates": [
+        -76.9483238494655,
+        38.98598645
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "141",
+      "code": "TWS",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/141.jpg",
+      "lat": "38.98598645",
+      "lng": "-76.9483238494655",
+      "locations": [
+        {
+          "location": "2sr Flr",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        },
+        {
+          "location": "Ground Floor Alcove",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 1116",
+          "machines": [
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        },
+        {
+          "location": "Ground floor side lobby",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        }
+      ],
+      "name": "Tawes Fine Arts Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=141"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "142",
-    "code": "ANS",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/142.jpg",
-    "lat": "38.99164625",
-    "lng": "-76.9394592785606",
-    "locations": [
-      {
-        "location": "1495- Vending Bank",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Oceanspray"
-          }
-        ]
-      }
-    ],
-    "name": "Animal Science/Agricultural Engineering Building"
+    "geometry": {
+      "coordinates": [
+        -76.9394592785606,
+        38.99164625
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "142",
+      "code": "ANS",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/142.jpg",
+      "lat": "38.99164625",
+      "lng": "-76.9394592785606",
+      "locations": [
+        {
+          "location": "1495- Vending Bank",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Oceanspray"
+            }
+          ]
+        }
+      ],
+      "name": "Animal Science/Agricultural Engineering Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=142"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "143",
-    "code": "EDU",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/143.jpg",
-    "lat": "38.9867095",
-    "lng": "-76.9474215",
-    "locations": [
-      {
-        "location": "rm 0211",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Benjamin Building"
+    "geometry": {
+      "coordinates": [
+        -76.9474215,
+        38.9867095
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "143",
+      "code": "EDU",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/143.jpg",
+      "lat": "38.9867095",
+      "lng": "-76.9474215",
+      "locations": [
+        {
+          "location": "rm 0211",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Benjamin Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=143"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "145",
-    "code": "ARC",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/145.jpg",
-    "lat": "38.98423555",
-    "lng": "-76.9475462198212",
-    "locations": [
-      {
-        "location": "By rm. 0103",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 2,
-            "name": "20 oz. Water"
-          },
-          {
-            "count": 1,
-            "name": "GlFrB"
-          }
-        ]
-      },
-      {
-        "location": "rm 0103",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      },
-      {
-        "location": "rm 0001",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          }
-        ]
-      }
-    ],
-    "name": "Architecture Building"
+    "geometry": {
+      "coordinates": [
+        -76.9475462198212,
+        38.98423555
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "145",
+      "code": "ARC",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/145.jpg",
+      "lat": "38.98423555",
+      "lng": "-76.9475462198212",
+      "locations": [
+        {
+          "location": "By rm. 0103",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 2,
+              "name": "20 oz. Water"
+            },
+            {
+              "count": 1,
+              "name": "GlFrB"
+            }
+          ]
+        },
+        {
+          "location": "rm 0103",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        },
+        {
+          "location": "rm 0001",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            }
+          ]
+        }
+      ],
+      "name": "Architecture Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=145"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "146",
-    "code": "ASY",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/146.jpg",
-    "lat": "38.98528145",
-    "lng": "-76.9478947752967",
-    "locations": [
-      {
-        "location": "By rm. 1306",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 3303",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Art-Sociology Building"
+    "geometry": {
+      "coordinates": [
+        -76.9478947752967,
+        38.98528145
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "146",
+      "code": "ASY",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/146.jpg",
+      "lat": "38.98528145",
+      "lng": "-76.9478947752967",
+      "locations": [
+        {
+          "location": "By rm. 1306",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 3303",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Art-Sociology Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=146"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "147",
-    "code": "HBK",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/147.jpg",
-    "lat": "38.9881767",
-    "lng": "-76.9415740921482",
-    "locations": [
-      {
-        "location": "By rm. 0102",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "Inside of rm. 4114",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Hornbake Library"
+    "geometry": {
+      "coordinates": [
+        -76.9415740921482,
+        38.9881767
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "147",
+      "code": "HBK",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/147.jpg",
+      "lat": "38.9881767",
+      "lng": "-76.9415740921482",
+      "locations": [
+        {
+          "location": "By rm. 0102",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "Inside of rm. 4114",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Hornbake Library",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=147"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "162",
-    "code": "COL",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/162.jpg",
-    "lat": "38.98797155",
-    "lng": "-76.9467662555511",
-    "locations": [
-      {
-        "location": "By rm. 0112",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          }
-        ]
-      }
-    ],
-    "name": "Cole Student Activities Building"
+    "geometry": {
+      "coordinates": [
+        -76.9467662555511,
+        38.98797155
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "162",
+      "code": "COL",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/162.jpg",
+      "lat": "38.98797155",
+      "lng": "-76.9467662555511",
+      "locations": [
+        {
+          "location": "By rm. 0112",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            }
+          ]
+        }
+      ],
+      "name": "Cole Student Activities Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=162"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "163",
-    "code": "SSU",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/163.jpg",
-    "lat": "38.98816455",
-    "lng": "-76.9447218233957",
-    "locations": [
-      {
-        "location": "By rm. 0232",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Gatorade"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      },
-      {
-        "location": "By rm. 1232",
-        "machines": [
-          {
-            "count": 2,
-            "name": "Water / Lipton Tea"
-          },
-          {
-            "count": 1,
-            "name": "20oz. Gatorade"
-          }
-        ]
-      }
-    ],
-    "name": "Adele H. Stamp Student Union Buildings"
+    "geometry": {
+      "coordinates": [
+        -76.9447218233957,
+        38.98816455
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "163",
+      "code": "SSU",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/163.jpg",
+      "lat": "38.98816455",
+      "lng": "-76.9447218233957",
+      "locations": [
+        {
+          "location": "By rm. 0232",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Gatorade"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        },
+        {
+          "location": "By rm. 1232",
+          "machines": [
+            {
+              "count": 2,
+              "name": "Water / Lipton Tea"
+            },
+            {
+              "count": 1,
+              "name": "20oz. Gatorade"
+            }
+          ]
+        }
+      ],
+      "name": "Adele H. Stamp Student Union Buildings",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=163"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "202",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/202.jpg",
-    "lat": "38.9897313",
-    "lng": "-76.9414582777038",
-    "locations": [
-      {
-        "location": "Outside",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      },
-      {
-        "location": "Outside by front enterance",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Regents Drive Parking Garage"
+    "geometry": {
+      "coordinates": [
+        -76.9414582777038,
+        38.9897313
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "202",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/202.jpg",
+      "lat": "38.9897313",
+      "lng": "-76.9414582777038",
+      "locations": [
+        {
+          "location": "Outside",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        },
+        {
+          "location": "Outside by front enterance",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Regents Drive Parking Garage",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=202"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "224",
-    "code": "CSS",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/224.jpg",
-    "lat": "38.9909812",
-    "lng": "-76.9425669540912",
-    "locations": [
-      {
-        "location": "By rm. 2327",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Computer and Space Sciences Building"
+    "geometry": {
+      "coordinates": [
+        -76.9425669540912,
+        38.9909812
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "224",
+      "code": "CSS",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/224.jpg",
+      "lat": "38.9909812",
+      "lng": "-76.9425669540912",
+      "locations": [
+        {
+          "location": "By rm. 2327",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Computer and Space Sciences Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=224"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "227",
-    "code": "JUL",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/227.jpg",
-    "lat": "38.99087705",
-    "lng": "-76.9435848",
-    "locations": [
-      {
-        "location": "1104",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Jull Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9435848,
+        38.99087705
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "227",
+      "code": "JUL",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/227.jpg",
+      "lat": "38.99087705",
+      "lng": "-76.9435848",
+      "locations": [
+        {
+          "location": "1104",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Jull Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=227"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "232",
-    "code": "NCC",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/232.jpg",
-    "lat": "38.9881339",
-    "lng": "-76.9438057866404",
-    "locations": [
-      {
-        "location": "Ground Fl. Entrance (by rm.0138)",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Nyumburu Cultural Center"
+    "geometry": {
+      "coordinates": [
+        -76.9438057866404,
+        38.9881339
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "232",
+      "code": "NCC",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/232.jpg",
+      "lat": "38.9881339",
+      "lng": "-76.9438057866404",
+      "locations": [
+        {
+          "location": "Ground Fl. Entrance (by rm.0138)",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Nyumburu Cultural Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=232"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "254",
-    "code": "ELK",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/254.jpg",
-    "lat": "38.9925108",
-    "lng": "-76.9489576649778",
-    "locations": [
-      {
-        "location": "Ground Floor- Back Lobby",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          },
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Elkton Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9489576649778,
+        38.9925108
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "254",
+      "code": "ELK",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/254.jpg",
+      "lat": "38.9925108",
+      "lng": "-76.9489576649778",
+      "locations": [
+        {
+          "location": "Ground Floor- Back Lobby",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            },
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Elkton Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=254"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "256",
-    "code": "ELL",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/256.jpg",
-    "lat": "38.9918228",
-    "lng": "-76.9466586443134",
-    "locations": [
-      {
-        "location": "Lobby",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      }
-    ],
-    "name": "Ellicott Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9466586443134,
+        38.9918228
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "256",
+      "code": "ELL",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/256.jpg",
+      "lat": "38.9918228",
+      "lng": "-76.9466586443134",
+      "locations": [
+        {
+          "location": "Lobby",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        }
+      ],
+      "name": "Ellicott Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=256"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "258",
-    "code": "HAG",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/258.jpg",
-    "lat": "38.9924384",
-    "lng": "-76.9474136961276",
-    "locations": [
-      {
-        "location": "Ground Floor- Lobby",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          },
-          {
-            "count": 1,
-            "name": "Oceanspray Juice"
-          }
-        ]
-      }
-    ],
-    "name": "Hagerstown Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9474136961276,
+        38.9924384
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "258",
+      "code": "HAG",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/258.jpg",
+      "lat": "38.9924384",
+      "lng": "-76.9474136961276",
+      "locations": [
+        {
+          "location": "Ground Floor- Lobby",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            },
+            {
+              "count": 1,
+              "name": "Oceanspray Juice"
+            }
+          ]
+        }
+      ],
+      "name": "Hagerstown Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=258"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "259",
-    "code": "LPA",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/259.jpg",
-    "lat": "38.9924497",
-    "lng": "-76.9458907104711",
-    "locations": [
-      {
-        "location": "Ground Floor- Lobby",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          },
-          {
-            "count": 1,
-            "name": "Oceanspray Juice"
-          }
-        ]
-      }
-    ],
-    "name": "LaPlata Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9458907104711,
+        38.9924497
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "259",
+      "code": "LPA",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/259.jpg",
+      "lat": "38.9924497",
+      "lng": "-76.9458907104711",
+      "locations": [
+        {
+          "location": "Ground Floor- Lobby",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            },
+            {
+              "count": 1,
+              "name": "Oceanspray Juice"
+            }
+          ]
+        }
+      ],
+      "name": "LaPlata Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=259"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "311",
-    "locations": [
-      {
-        "location": "1000",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Elkins"
+    "properties": {
+      "building_id": "311",
+      "locations": [
+        {
+          "location": "1000",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Elkins",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=311"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "338",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/338.jpg",
-    "lat": "38.99828345",
-    "lng": "-76.94215145",
-    "locations": [
-      {
-        "location": "1107",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      }
-    ],
-    "name": "Chesapeake Building"
+    "geometry": {
+      "coordinates": [
+        -76.94215145,
+        38.99828345
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "338",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/338.jpg",
+      "lat": "38.99828345",
+      "lng": "-76.94215145",
+      "locations": [
+        {
+          "location": "1107",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        }
+      ],
+      "name": "Chesapeake Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=338"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "360",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/360.jpg",
-    "lat": "38.9956305",
-    "lng": "-76.9413366066757",
-    "locations": [
-      {
-        "location": "0601",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      }
-    ],
-    "name": "Comcast Center"
+    "geometry": {
+      "coordinates": [
+        -76.9413366066757,
+        38.9956305
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "360",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/360.jpg",
+      "lat": "38.9956305",
+      "lng": "-76.9413366066757",
+      "locations": [
+        {
+          "location": "0601",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        }
+      ],
+      "name": "Comcast Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=360"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "383",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/383.jpg",
-    "lat": "38.9819567",
-    "lng": "-76.9292279695603",
-    "locations": [
-      {
-        "location": "1109",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Oceanspray Juice"
-          }
-        ]
-      }
-    ],
-    "name": "Physical Distribution Center (Terrapin Trader)"
+    "geometry": {
+      "coordinates": [
+        -76.9292279695603,
+        38.9819567
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "383",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/383.jpg",
+      "lat": "38.9819567",
+      "lng": "-76.9292279695603",
+      "locations": [
+        {
+          "location": "1109",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Oceanspray Juice"
+            }
+          ]
+        }
+      ],
+      "name": "Physical Distribution Center (Terrapin Trader)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=383"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "386",
-    "code": "PAC",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/386.jpg",
-    "lat": "38.9906807",
-    "lng": "-76.9504434053224",
-    "locations": [
-      {
-        "location": "Classroom enterance lobby (by rm. 2527)",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Lipton Tea / 20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Clarice Smith Performing Arts Center"
+    "geometry": {
+      "coordinates": [
+        -76.9504434053224,
+        38.9906807
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "386",
+      "code": "PAC",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/386.jpg",
+      "lat": "38.9906807",
+      "lng": "-76.9504434053224",
+      "locations": [
+        {
+          "location": "Classroom enterance lobby (by rm. 2527)",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Lipton Tea / 20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Clarice Smith Performing Arts Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=386"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "387",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/387.jpg",
-    "lat": "38.99251055",
-    "lng": "-76.938615024697",
-    "locations": [
-      {
-        "location": "1115",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "rm 2112",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Technology Advancement Building"
+    "geometry": {
+      "coordinates": [
+        -76.938615024697,
+        38.99251055
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "387",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/387.jpg",
+      "lat": "38.99251055",
+      "lng": "-76.938615024697",
+      "locations": [
+        {
+          "location": "1115",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "rm 2112",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Technology Advancement Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=387"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "399",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/399.jpg",
-    "lat": "38.9933884",
-    "lng": "-76.9464978414166",
-    "locations": [
-      {
-        "location": "rm 0192",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Aquatics Center"
+    "geometry": {
+      "coordinates": [
+        -76.9464978414166,
+        38.9933884
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "399",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/399.jpg",
+      "lat": "38.9933884",
+      "lng": "-76.9464978414166",
+      "locations": [
+        {
+          "location": "rm 0192",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Aquatics Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=399"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "406",
-    "code": "CSI",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/406.jpg",
-    "lat": "38.98999465",
-    "lng": "-76.9361946",
-    "locations": [
-      {
-        "location": "Near rm. 1111",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "Computer Science Instructional Center"
+    "geometry": {
+      "coordinates": [
+        -76.9361946,
+        38.98999465
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "406",
+      "code": "CSI",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/406.jpg",
+      "lat": "38.98999465",
+      "lng": "-76.9361946",
+      "locations": [
+        {
+          "location": "Near rm. 1111",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "Computer Science Instructional Center",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=406"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "417",
-    "code": "KNI",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/417.jpg",
-    "lat": "38.98677255",
-    "lng": "-76.9484189",
-    "locations": [
-      {
-        "location": "By rm. 1210",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          }
-        ]
-      }
-    ],
-    "name": "Knight Hall"
+    "geometry": {
+      "coordinates": [
+        -76.9484189,
+        38.98677255
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "417",
+      "code": "KNI",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/417.jpg",
+      "lat": "38.98677255",
+      "lng": "-76.9484189",
+      "locations": [
+        {
+          "location": "By rm. 1210",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            }
+          ]
+        }
+      ],
+      "name": "Knight Hall",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=417"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "419",
-    "code": "",
-    "lat": "38.9938547",
-    "lng": "-76.9492226797435",
-    "locations": [
-      {
-        "location": "Vending Alcove (1st floor  rm. 1119)",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          },
-          {
-            "count": 1,
-            "name": "Water / Lipton Tea"
-          },
-          {
-            "count": 1,
-            "name": "20oz. Gatorade"
-          }
-        ]
-      },
-      {
-        "location": "1st Floor Vending Alcove  rm 1119",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Water"
-          }
-        ]
-      }
-    ],
-    "name": "Oakland Hall (Residence Hall)"
+    "geometry": {
+      "coordinates": [
+        -76.9492226797435,
+        38.9938547
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "419",
+      "code": "",
+      "lat": "38.9938547",
+      "lng": "-76.9492226797435",
+      "locations": [
+        {
+          "location": "Vending Alcove (1st floor  rm. 1119)",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            },
+            {
+              "count": 1,
+              "name": "Water / Lipton Tea"
+            },
+            {
+              "count": 1,
+              "name": "20oz. Gatorade"
+            }
+          ]
+        },
+        {
+          "location": "1st Floor Vending Alcove  rm 1119",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Water"
+            }
+          ]
+        }
+      ],
+      "name": "Oakland Hall (Residence Hall)",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=419"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "805",
-    "code": "",
-    "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/805.jpg",
-    "lat": "38.9767149",
-    "lng": "-76.9249429909109",
-    "locations": [
-      {
-        "location": "1196",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      },
-      {
-        "location": "Rm. 2101 / Break room",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Soda with Credit Card Reader"
-          }
-        ]
-      }
-    ],
-    "name": "Patapsco Building"
+    "geometry": {
+      "coordinates": [
+        -76.9249429909109,
+        38.9767149
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "building_id": "805",
+      "code": "",
+      "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/805.jpg",
+      "lat": "38.9767149",
+      "lng": "-76.9249429909109",
+      "locations": [
+        {
+          "location": "1196",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        },
+        {
+          "location": "Rm. 2101 / Break room",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Soda with Credit Card Reader"
+            }
+          ]
+        }
+      ],
+      "name": "Patapsco Building",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=805"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "978",
-    "locations": [
-      {
-        "location": "B1 0204",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "IBBR - Building 1"
+    "properties": {
+      "building_id": "978",
+      "locations": [
+        {
+          "location": "B1 0204",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "IBBR - Building 1",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=978"
+    },
+    "type": "Feature"
   },
   {
-    "building_id": "980",
-    "locations": [
-      {
-        "location": "B3 3240",
-        "machines": [
-          {
-            "count": 1,
-            "name": "20 oz. Carbonated Soda"
-          },
-          {
-            "count": 1,
-            "name": "Oceanspray Juice"
-          }
-        ]
-      },
-      {
-        "location": "B3-2225",
-        "machines": [
-          {
-            "count": 1,
-            "name": "Oceanspray Juice"
-          }
-        ]
-      },
-      {
-        "location": "B3-4225",
-        "machines": [
-          {
-            "count": 2,
-            "name": "20 oz. Carbonated Soda"
-          }
-        ]
-      }
-    ],
-    "name": "IBBR - Building 3"
+    "properties": {
+      "building_id": "980",
+      "locations": [
+        {
+          "location": "B3 3240",
+          "machines": [
+            {
+              "count": 1,
+              "name": "20 oz. Carbonated Soda"
+            },
+            {
+              "count": 1,
+              "name": "Oceanspray Juice"
+            }
+          ]
+        },
+        {
+          "location": "B3-2225",
+          "machines": [
+            {
+              "count": 1,
+              "name": "Oceanspray Juice"
+            }
+          ]
+        },
+        {
+          "location": "B3-4225",
+          "machines": [
+            {
+              "count": 2,
+              "name": "20 oz. Carbonated Soda"
+            }
+          ]
+        }
+      ],
+      "name": "IBBR - Building 3",
+      "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=980"
+    },
+    "type": "Feature"
   }
 ]

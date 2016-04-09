@@ -17,12 +17,14 @@ def get_machines():
     # Get list of buildings with machines on main page
     building_ids = sorted(re.findall(r'<a href="vending_list.php\?BldgNum=(\d+)">(.*?) \(\d+\)</a>', main_html))
     for building_id, building_name in building_ids:
-        building_html = str(urllib.request.urlopen(machine_url + '?BldgNum=' + building_id).read())
+        building_url = machine_url + '?BldgNum=' + building_id
+        building_html = str(urllib.request.urlopen(building_url).read())
         print(building_id)
 
         building = {
             'building_id': building_id,
             'name': building_name,
+            'url': building_url,
         }
         buildings.append(building)
 

@@ -12,7 +12,8 @@
         ]
       }
     ],
-    "name": "Service Building"
+    "name": "Service Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=003"
   },
   {
     "building_id": "010",
@@ -31,7 +32,8 @@
         ]
       }
     ],
-    "name": "Patuxent Building"
+    "name": "Patuxent Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=010"
   },
   {
     "building_id": "017",
@@ -46,7 +48,8 @@
         ]
       }
     ],
-    "name": "Cecil Hall"
+    "name": "Cecil Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=017"
   },
   {
     "building_id": "034",
@@ -74,7 +77,8 @@
         ]
       }
     ],
-    "name": "Jimenez Hall"
+    "name": "Jimenez Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=034"
   },
   {
     "building_id": "035",
@@ -97,7 +101,8 @@
         ]
       }
     ],
-    "name": "McKeldin Library"
+    "name": "McKeldin Library",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=035"
   },
   {
     "building_id": "036",
@@ -125,7 +130,8 @@
         ]
       }
     ],
-    "name": "Plant Sciences Building"
+    "name": "Plant Sciences Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=036"
   },
   {
     "building_id": "038",
@@ -158,7 +164,8 @@
         ]
       }
     ],
-    "name": "LeFrak Hall"
+    "name": "LeFrak Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=038"
   },
   {
     "building_id": "039",
@@ -173,7 +180,8 @@
         ]
       }
     ],
-    "name": "Van Munching Hall"
+    "name": "Van Munching Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=039"
   },
   {
     "building_id": "042",
@@ -209,7 +217,8 @@
         ]
       }
     ],
-    "name": "Tydings Hall"
+    "name": "Tydings Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=042"
   },
   {
     "building_id": "044",
@@ -233,7 +242,8 @@
         ]
       }
     ],
-    "name": "Skinner Building"
+    "name": "Skinner Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=044"
   },
   {
     "building_id": "046",
@@ -257,7 +267,8 @@
         ]
       }
     ],
-    "name": "Marie Mount Hall"
+    "name": "Marie Mount Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=046"
   },
   {
     "building_id": "048",
@@ -285,7 +296,8 @@
         ]
       }
     ],
-    "name": "Francis Scott Key Hall"
+    "name": "Francis Scott Key Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=048"
   },
   {
     "building_id": "051",
@@ -300,7 +312,8 @@
         ]
       }
     ],
-    "name": "Worcester Hall"
+    "name": "Worcester Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=051"
   },
   {
     "building_id": "054",
@@ -315,7 +328,8 @@
         ]
       }
     ],
-    "name": "Preinkert Field House"
+    "name": "Preinkert Field House",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=054"
   },
   {
     "building_id": "065",
@@ -330,7 +344,8 @@
         ]
       }
     ],
-    "name": "Carroll Hall"
+    "name": "Carroll Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=065"
   },
   {
     "building_id": "068",
@@ -349,7 +364,8 @@
         ]
       }
     ],
-    "name": "Eppley Recreation Center"
+    "name": "Eppley Recreation Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=068"
   },
   {
     "building_id": "070",
@@ -364,7 +380,8 @@
         ]
       }
     ],
-    "name": "Caroline Hall"
+    "name": "Caroline Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=070"
   },
   {
     "building_id": "071",
@@ -379,7 +396,8 @@
         ]
       }
     ],
-    "name": "Lee Building"
+    "name": "Lee Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=071"
   },
   {
     "building_id": "074",
@@ -394,7 +412,8 @@
         ]
       }
     ],
-    "name": "Holzapfel Hall"
+    "name": "Holzapfel Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=074"
   },
   {
     "building_id": "076",
@@ -409,7 +428,8 @@
         ]
       }
     ],
-    "name": "Symons Hall"
+    "name": "Symons Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=076"
   },
   {
     "building_id": "077",
@@ -433,7 +453,8 @@
         ]
       }
     ],
-    "name": "Main Administration Building"
+    "name": "Main Administration Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=077"
   },
   {
     "building_id": "078",
@@ -474,7 +495,8 @@
         ]
       }
     ],
-    "name": "Reckord Armory"
+    "name": "Reckord Armory",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=078"
   },
   {
     "building_id": "082",
@@ -502,7 +524,8 @@
         ]
       }
     ],
-    "name": "John S. Toll Physics Building"
+    "name": "John S. Toll Physics Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=082"
   },
   {
     "building_id": "083",
@@ -517,7 +540,8 @@
         ]
       }
     ],
-    "name": "J.M. Patterson Building"
+    "name": "J.M. Patterson Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=083"
   },
   {
     "building_id": "084",
@@ -541,7 +565,8 @@
         ]
       }
     ],
-    "name": "Mathematics Building"
+    "name": "Mathematics Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=084"
   },
   {
     "building_id": "088",
@@ -637,7 +662,8 @@
         ]
       }
     ],
-    "name": "Martin Hall"
+    "name": "Martin Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=088"
   },
   {
     "building_id": "089",
@@ -661,7 +687,8 @@
         ]
       }
     ],
-    "name": "Engineering Laboratory Building"
+    "name": "Engineering Laboratory Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=089"
   },
   {
     "building_id": "090",
@@ -685,7 +712,8 @@
         ]
       }
     ],
-    "name": "Chemical & Nuclear Engineering Building"
+    "name": "Chemical & Nuclear Engineering Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=090"
   },
   {
     "building_id": "091",
@@ -749,7 +777,8 @@
         ]
       }
     ],
-    "name": "Chemistry Building"
+    "name": "Chemistry Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=091"
   },
   {
     "building_id": "092",
@@ -764,7 +793,8 @@
         ]
       }
     ],
-    "name": "Potomac Building"
+    "name": "Potomac Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=092"
   },
   {
     "building_id": "115",
@@ -792,7 +822,8 @@
         ]
       }
     ],
-    "name": "A.V. Williams Building"
+    "name": "A.V. Williams Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=115"
   },
   {
     "building_id": "122",
@@ -811,7 +842,8 @@
         ]
       }
     ],
-    "name": "Cumberland Hall"
+    "name": "Cumberland Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=122"
   },
   {
     "building_id": "140",
@@ -835,7 +867,8 @@
         ]
       }
     ],
-    "name": "Health Center"
+    "name": "Health Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=140"
   },
   {
     "building_id": "141",
@@ -881,7 +914,8 @@
         ]
       }
     ],
-    "name": "Tawes Fine Arts Building"
+    "name": "Tawes Fine Arts Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=141"
   },
   {
     "building_id": "142",
@@ -900,7 +934,8 @@
         ]
       }
     ],
-    "name": "Animal Sciences Building"
+    "name": "Animal Sciences Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=142"
   },
   {
     "building_id": "143",
@@ -919,7 +954,8 @@
         ]
       }
     ],
-    "name": "Benjamin Building"
+    "name": "Benjamin Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=143"
   },
   {
     "building_id": "145",
@@ -960,7 +996,8 @@
         ]
       }
     ],
-    "name": "Architecture Building"
+    "name": "Architecture Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=145"
   },
   {
     "building_id": "146",
@@ -984,7 +1021,8 @@
         ]
       }
     ],
-    "name": "Art-Sociology Building"
+    "name": "Art-Sociology Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=146"
   },
   {
     "building_id": "147",
@@ -1012,7 +1050,8 @@
         ]
       }
     ],
-    "name": "Hornbake Library"
+    "name": "Hornbake Library",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=147"
   },
   {
     "building_id": "162",
@@ -1031,7 +1070,8 @@
         ]
       }
     ],
-    "name": "Cole Student Activities Building"
+    "name": "Cole Student Activities Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=162"
   },
   {
     "building_id": "163",
@@ -1067,7 +1107,8 @@
         ]
       }
     ],
-    "name": "Stamp Student Union"
+    "name": "Stamp Student Union",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=163"
   },
   {
     "building_id": "202",
@@ -1091,7 +1132,8 @@
         ]
       }
     ],
-    "name": "Parking Garage 2"
+    "name": "Parking Garage 2",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=202"
   },
   {
     "building_id": "224",
@@ -1110,7 +1152,8 @@
         ]
       }
     ],
-    "name": "Computer and Space Sciences Building"
+    "name": "Computer and Space Sciences Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=224"
   },
   {
     "building_id": "227",
@@ -1125,7 +1168,8 @@
         ]
       }
     ],
-    "name": "Jull Hall"
+    "name": "Jull Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=227"
   },
   {
     "building_id": "232",
@@ -1144,7 +1188,8 @@
         ]
       }
     ],
-    "name": "Nyumburu Cultural Center"
+    "name": "Nyumburu Cultural Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=232"
   },
   {
     "building_id": "254",
@@ -1167,7 +1212,8 @@
         ]
       }
     ],
-    "name": "Elkton Hall"
+    "name": "Elkton Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=254"
   },
   {
     "building_id": "256",
@@ -1182,7 +1228,8 @@
         ]
       }
     ],
-    "name": "Ellicott Hall"
+    "name": "Ellicott Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=256"
   },
   {
     "building_id": "258",
@@ -1205,7 +1252,8 @@
         ]
       }
     ],
-    "name": "Hagerstown Hall"
+    "name": "Hagerstown Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=258"
   },
   {
     "building_id": "259",
@@ -1228,7 +1276,8 @@
         ]
       }
     ],
-    "name": "La Plata Hall"
+    "name": "La Plata Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=259"
   },
   {
     "building_id": "311",
@@ -1243,7 +1292,8 @@
         ]
       }
     ],
-    "name": "Elkins"
+    "name": "Elkins",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=311"
   },
   {
     "building_id": "338",
@@ -1262,7 +1312,8 @@
         ]
       }
     ],
-    "name": "Chesapeake Building"
+    "name": "Chesapeake Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=338"
   },
   {
     "building_id": "360",
@@ -1277,7 +1328,8 @@
         ]
       }
     ],
-    "name": "Comcast Center"
+    "name": "Comcast Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=360"
   },
   {
     "building_id": "383",
@@ -1296,7 +1348,8 @@
         ]
       }
     ],
-    "name": "Physical Distribution Center"
+    "name": "Physical Distribution Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=383"
   },
   {
     "building_id": "386",
@@ -1315,7 +1368,8 @@
         ]
       }
     ],
-    "name": "Clarice Smith Performing Arts Center"
+    "name": "Clarice Smith Performing Arts Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=386"
   },
   {
     "building_id": "387",
@@ -1339,7 +1393,8 @@
         ]
       }
     ],
-    "name": "Technology Advancement Program Building"
+    "name": "Technology Advancement Program Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=387"
   },
   {
     "building_id": "399",
@@ -1354,7 +1409,8 @@
         ]
       }
     ],
-    "name": "Eppley Recreation Center- Associated Areas"
+    "name": "Eppley Recreation Center- Associated Areas",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=399"
   },
   {
     "building_id": "406",
@@ -1369,7 +1425,8 @@
         ]
       }
     ],
-    "name": "Computer Science Instructional Center"
+    "name": "Computer Science Instructional Center",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=406"
   },
   {
     "building_id": "417",
@@ -1388,7 +1445,8 @@
         ]
       }
     ],
-    "name": "Knight Hall"
+    "name": "Knight Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=417"
   },
   {
     "building_id": "419",
@@ -1424,7 +1482,8 @@
         ]
       }
     ],
-    "name": "Oakland Hall"
+    "name": "Oakland Hall",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=419"
   },
   {
     "building_id": "805",
@@ -1448,7 +1507,8 @@
         ]
       }
     ],
-    "name": "Patapsco Building"
+    "name": "Patapsco Building",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=805"
   },
   {
     "building_id": "978",
@@ -1463,7 +1523,8 @@
         ]
       }
     ],
-    "name": "IBBR - Building 1"
+    "name": "IBBR - Building 1",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=978"
   },
   {
     "building_id": "980",
@@ -1500,6 +1561,7 @@
         ]
       }
     ],
-    "name": "IBBR - Building 3"
+    "name": "IBBR - Building 3",
+    "url": "http://www.dbs.umd.edu/corp/vending_list.php?BldgNum=980"
   }
 ]
