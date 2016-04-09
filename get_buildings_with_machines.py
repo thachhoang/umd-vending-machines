@@ -31,6 +31,8 @@ if __name__ == '__main__':
                     ],
                 },
             })
+            del m['lng']
+            del m['lat']
         geodata.append(feature)
 
     with open('data/buildings_with_machines.json', 'w+') as f:

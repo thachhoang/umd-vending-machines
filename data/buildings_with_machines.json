@@ -11,8 +11,6 @@
       "building_id": "003",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/003.jpg",
-      "lat": "38.98597645",
-      "lng": "-76.9361406358543",
       "locations": [
         {
           "location": "1304",
@@ -41,8 +39,6 @@
       "building_id": "010",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/010.jpg",
-      "lat": "38.98863025",
-      "lng": "-76.943483756875",
       "locations": [
         {
           "location": "Room 0108",
@@ -75,8 +71,6 @@
       "building_id": "017",
       "code": "CEC",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/017.jpg",
-      "lat": "38.9829463",
-      "lng": "-76.9416573737624",
       "locations": [
         {
           "location": "Laundry Room",
@@ -105,8 +99,6 @@
       "building_id": "034",
       "code": "JMZ",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/034.jpg",
-      "lat": "38.9867867",
-      "lng": "-76.94455005",
       "locations": [
         {
           "location": "0102",
@@ -148,8 +140,6 @@
       "building_id": "035",
       "code": "MCK",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/035.jpg",
-      "lat": "38.98598155",
-      "lng": "-76.9451004712142",
       "locations": [
         {
           "location": "Next to Footnotes Cafe on First Floor",
@@ -186,8 +176,6 @@
       "building_id": "036",
       "code": "PLS",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/036.jpg",
-      "lat": "38.98873715",
-      "lng": "-76.9413596237531",
       "locations": [
         {
           "location": "1103",
@@ -229,8 +217,6 @@
       "building_id": "038",
       "code": "LEF",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/038.jpg",
-      "lat": "38.9836849",
-      "lng": "-76.9436347921034",
       "locations": [
         {
           "location": "rm 2220",
@@ -277,8 +263,6 @@
       "building_id": "039",
       "code": "VMH",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/039.jpg",
-      "lat": "38.9830467",
-      "lng": "-76.9470382916646",
       "locations": [
         {
           "location": "1203",
@@ -307,8 +291,6 @@
       "building_id": "042",
       "code": "TYD",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/042.jpg",
-      "lat": "38.9848516",
-      "lng": "-76.9440007655894",
       "locations": [
         {
           "location": "By rm. 0102 in vending lobby",
@@ -358,8 +340,6 @@
       "building_id": "044",
       "code": "SKN",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/044.jpg",
-      "lat": "38.98480955",
-      "lng": "-76.9418413304917",
       "locations": [
         {
           "location": "0200 Downstairs Hallway",
@@ -397,8 +377,6 @@
       "building_id": "046",
       "code": "MMH",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/046.jpg",
-      "lat": "38.9850013",
-      "lng": "-76.94075799224",
       "locations": [
         {
           "location": "By rm. 0197",
@@ -436,8 +414,6 @@
       "building_id": "048",
       "code": "KEY",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/048.jpg",
-      "lat": "38.98506175",
-      "lng": "-76.9430892753028",
       "locations": [
         {
           "location": "By rm. 0111",
@@ -479,8 +455,6 @@
       "building_id": "051",
       "code": "WOR",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/051.jpg",
-      "lat": "38.98467285",
-      "lng": "-76.9449993420465",
       "locations": [
         {
           "location": "Basement",
@@ -509,8 +483,6 @@
       "building_id": "054",
       "code": "PKT",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/054.jpg",
-      "lat": "38.9844511",
-      "lng": "-76.9461320708538",
       "locations": [
         {
           "location": "1112",
@@ -539,8 +511,6 @@
       "building_id": "065",
       "code": "CRL",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/065.jpg",
-      "lat": "38.9839834",
-      "lng": "-76.9456253332123",
       "locations": [
         {
           "location": "1194",
@@ -569,8 +539,6 @@
       "building_id": "068",
       "code": "CRC",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/068.jpg",
-      "lat": "38.99358165",
-      "lng": "-76.9452703132821",
       "locations": [
         {
           "location": "Across from Sneakers Caf\\xc3\\xa9",
@@ -603,8 +571,6 @@
       "building_id": "070",
       "code": "CAR",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/070.jpg",
-      "lat": "38.9834966",
-      "lng": "-76.9457925",
       "locations": [
         {
           "location": "1107",
@@ -633,8 +599,6 @@
       "building_id": "071",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/071.jpg",
-      "lat": "38.9853629",
-      "lng": "-76.9395264",
       "locations": [
         {
           "location": "Exterior Door by lobby 1121",
@@ -662,8 +626,6 @@
     "properties": {
       "building_id": "074",
       "code": "HZF",
-      "lat": "38.98687755",
-      "lng": "-76.9418893729789",
       "locations": [
         {
           "location": "0124",
@@ -692,8 +654,6 @@
       "building_id": "076",
       "code": "SYM",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/076.jpg",
-      "lat": "38.9870811",
-      "lng": "-76.9406455474374",
       "locations": [
         {
           "location": "Near rm. 0209",
@@ -722,8 +682,6 @@
       "building_id": "077",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/077.jpg",
-      "lat": "38.9860173",
-      "lng": "-76.93980935",
       "locations": [
         {
           "location": "0127",
@@ -761,8 +719,6 @@
       "building_id": "078",
       "code": "ARM",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/078.jpg",
-      "lat": "38.9860268",
-      "lng": "-76.9389662139866",
       "locations": [
         {
           "location": "0121 (Ground Level Vending)",
@@ -817,8 +773,6 @@
       "building_id": "082",
       "code": "PHY",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/082.jpg",
-      "lat": "38.9886972",
-      "lng": "-76.94007719774",
       "locations": [
         {
           "location": "Room 1322",
@@ -860,8 +814,6 @@
       "building_id": "083",
       "code": "JMP",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/083.jpg",
-      "lat": "38.9905177",
-      "lng": "-76.940295409728",
       "locations": [
         {
           "location": "rm 1125",
@@ -890,8 +842,6 @@
       "building_id": "084",
       "code": "MTH",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/084.jpg",
-      "lat": "38.98862265",
-      "lng": "-76.9390688130666",
       "locations": [
         {
           "location": "Room 1497",
@@ -929,8 +879,6 @@
       "building_id": "088",
       "code": "EGR",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/088.jpg",
-      "lat": "38.9888688",
-      "lng": "-76.9379744096244",
       "locations": [
         {
           "location": "Room 0102",
@@ -1040,8 +988,6 @@
       "building_id": "089",
       "code": "EGL",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/089.jpg",
-      "lat": "38.98926235",
-      "lng": "-76.9379467111811",
       "locations": [
         {
           "location": "1126",
@@ -1079,8 +1025,6 @@
       "building_id": "090",
       "code": "CHE",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/090.jpg",
-      "lat": "38.99060895",
-      "lng": "-76.9395374654513",
       "locations": [
         {
           "location": "By rm. 1145",
@@ -1118,8 +1062,6 @@
       "building_id": "091",
       "code": "CHM",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/091.jpg",
-      "lat": "38.98959475",
-      "lng": "-76.940171718657",
       "locations": [
         {
           "location": "By rm. 0215",
@@ -1197,8 +1139,6 @@
       "building_id": "092",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/092.jpg",
-      "lat": "38.9903918",
-      "lng": "-76.93830195",
       "locations": [
         {
           "location": "By rm. 1104",
@@ -1227,8 +1167,6 @@
       "building_id": "115",
       "code": "AVW",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/115.jpg",
-      "lat": "38.99079905",
-      "lng": "-76.9363418604721",
       "locations": [
         {
           "location": "1st fl. Main Enterance",
@@ -1270,8 +1208,6 @@
       "building_id": "122",
       "code": "CBD",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/122.jpg",
-      "lat": "38.9922614",
-      "lng": "-76.9439244117559",
       "locations": [
         {
           "location": "Vending Bank",
@@ -1304,8 +1240,6 @@
       "building_id": "140",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/140.jpg",
-      "lat": "38.9872158",
-      "lng": "-76.9447460619769",
       "locations": [
         {
           "location": "rm 0118",
@@ -1343,8 +1277,6 @@
       "building_id": "141",
       "code": "TWS",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/141.jpg",
-      "lat": "38.98598645",
-      "lng": "-76.9483238494655",
       "locations": [
         {
           "location": "2sr Flr",
@@ -1404,8 +1336,6 @@
       "building_id": "142",
       "code": "ANS",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/142.jpg",
-      "lat": "38.99164625",
-      "lng": "-76.9394592785606",
       "locations": [
         {
           "location": "1495- Vending Bank",
@@ -1438,8 +1368,6 @@
       "building_id": "143",
       "code": "EDU",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/143.jpg",
-      "lat": "38.9867095",
-      "lng": "-76.9474215",
       "locations": [
         {
           "location": "rm 0211",
@@ -1472,8 +1400,6 @@
       "building_id": "145",
       "code": "ARC",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/145.jpg",
-      "lat": "38.98423555",
-      "lng": "-76.9475462198212",
       "locations": [
         {
           "location": "By rm. 0103",
@@ -1528,8 +1454,6 @@
       "building_id": "146",
       "code": "ASY",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/146.jpg",
-      "lat": "38.98528145",
-      "lng": "-76.9478947752967",
       "locations": [
         {
           "location": "By rm. 1306",
@@ -1567,8 +1491,6 @@
       "building_id": "147",
       "code": "HBK",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/147.jpg",
-      "lat": "38.9881767",
-      "lng": "-76.9415740921482",
       "locations": [
         {
           "location": "By rm. 0102",
@@ -1610,8 +1532,6 @@
       "building_id": "162",
       "code": "COL",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/162.jpg",
-      "lat": "38.98797155",
-      "lng": "-76.9467662555511",
       "locations": [
         {
           "location": "By rm. 0112",
@@ -1644,8 +1564,6 @@
       "building_id": "163",
       "code": "SSU",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/163.jpg",
-      "lat": "38.98816455",
-      "lng": "-76.9447218233957",
       "locations": [
         {
           "location": "By rm. 0232",
@@ -1695,8 +1613,6 @@
       "building_id": "202",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/202.jpg",
-      "lat": "38.9897313",
-      "lng": "-76.9414582777038",
       "locations": [
         {
           "location": "Outside",
@@ -1734,8 +1650,6 @@
       "building_id": "224",
       "code": "CSS",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/224.jpg",
-      "lat": "38.9909812",
-      "lng": "-76.9425669540912",
       "locations": [
         {
           "location": "By rm. 2327",
@@ -1768,8 +1682,6 @@
       "building_id": "227",
       "code": "JUL",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/227.jpg",
-      "lat": "38.99087705",
-      "lng": "-76.9435848",
       "locations": [
         {
           "location": "1104",
@@ -1798,8 +1710,6 @@
       "building_id": "232",
       "code": "NCC",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/232.jpg",
-      "lat": "38.9881339",
-      "lng": "-76.9438057866404",
       "locations": [
         {
           "location": "Ground Fl. Entrance (by rm.0138)",
@@ -1832,8 +1742,6 @@
       "building_id": "254",
       "code": "ELK",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/254.jpg",
-      "lat": "38.9925108",
-      "lng": "-76.9489576649778",
       "locations": [
         {
           "location": "Ground Floor- Back Lobby",
@@ -1870,8 +1778,6 @@
       "building_id": "256",
       "code": "ELL",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/256.jpg",
-      "lat": "38.9918228",
-      "lng": "-76.9466586443134",
       "locations": [
         {
           "location": "Lobby",
@@ -1900,8 +1806,6 @@
       "building_id": "258",
       "code": "HAG",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/258.jpg",
-      "lat": "38.9924384",
-      "lng": "-76.9474136961276",
       "locations": [
         {
           "location": "Ground Floor- Lobby",
@@ -1938,8 +1842,6 @@
       "building_id": "259",
       "code": "LPA",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/259.jpg",
-      "lat": "38.9924497",
-      "lng": "-76.9458907104711",
       "locations": [
         {
           "location": "Ground Floor- Lobby",
@@ -1995,8 +1897,6 @@
       "building_id": "338",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/338.jpg",
-      "lat": "38.99828345",
-      "lng": "-76.94215145",
       "locations": [
         {
           "location": "1107",
@@ -2029,8 +1929,6 @@
       "building_id": "360",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/360.jpg",
-      "lat": "38.9956305",
-      "lng": "-76.9413366066757",
       "locations": [
         {
           "location": "0601",
@@ -2059,8 +1957,6 @@
       "building_id": "383",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/383.jpg",
-      "lat": "38.9819567",
-      "lng": "-76.9292279695603",
       "locations": [
         {
           "location": "1109",
@@ -2093,8 +1989,6 @@
       "building_id": "386",
       "code": "PAC",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/386.jpg",
-      "lat": "38.9906807",
-      "lng": "-76.9504434053224",
       "locations": [
         {
           "location": "Classroom enterance lobby (by rm. 2527)",
@@ -2127,8 +2021,6 @@
       "building_id": "387",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/387.jpg",
-      "lat": "38.99251055",
-      "lng": "-76.938615024697",
       "locations": [
         {
           "location": "1115",
@@ -2166,8 +2058,6 @@
       "building_id": "399",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/399.jpg",
-      "lat": "38.9933884",
-      "lng": "-76.9464978414166",
       "locations": [
         {
           "location": "rm 0192",
@@ -2196,8 +2086,6 @@
       "building_id": "406",
       "code": "CSI",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/406.jpg",
-      "lat": "38.98999465",
-      "lng": "-76.9361946",
       "locations": [
         {
           "location": "Near rm. 1111",
@@ -2226,8 +2114,6 @@
       "building_id": "417",
       "code": "KNI",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/417.jpg",
-      "lat": "38.98677255",
-      "lng": "-76.9484189",
       "locations": [
         {
           "location": "By rm. 1210",
@@ -2259,8 +2145,6 @@
     "properties": {
       "building_id": "419",
       "code": "",
-      "lat": "38.9938547",
-      "lng": "-76.9492226797435",
       "locations": [
         {
           "location": "Vending Alcove (1st floor  rm. 1119)",
@@ -2310,8 +2194,6 @@
       "building_id": "805",
       "code": "",
       "image_url": "https://www.facilities.umd.edu/Buildings/Pictures/Medium/805.jpg",
-      "lat": "38.9767149",
-      "lng": "-76.9249429909109",
       "locations": [
         {
           "location": "1196",
