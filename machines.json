@@ -1,0 +1,1443 @@
+[
+  {
+    "building_id": "003",
+    "locations": [
+      {
+        "location": "1304",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "010",
+    "locations": [
+      {
+        "location": "Room 0108",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Oceanspray Juice / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "017",
+    "locations": [
+      {
+        "location": "Laundry Room",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "034",
+    "locations": [
+      {
+        "location": "0102",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0102",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "035",
+    "locations": [
+      {
+        "location": "Next to Footnotes Cafe on First Floor",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          },
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "036",
+    "locations": [
+      {
+        "location": "1103",
+        "machines": [
+          {
+            "count": 2,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "2161",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "038",
+    "locations": [
+      {
+        "location": "rm 2220",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "0107",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Oceanspray"
+          }
+        ]
+      },
+      {
+        "location": "2220",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "039",
+    "locations": [
+      {
+        "location": "1203",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "042",
+    "locations": [
+      {
+        "location": "By rm. 0102 in vending lobby",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          },
+          {
+            "count": 2,
+            "name": "GlFrB"
+          }
+        ]
+      },
+      {
+        "location": "0108",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "044",
+    "locations": [
+      {
+        "location": "0200 Downstairs Hallway",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 1114",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "046",
+    "locations": [
+      {
+        "location": "By rm. 0197",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0102",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "048",
+    "locations": [
+      {
+        "location": "By rm. 0111",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      },
+      {
+        "location": "1st flr catwalk",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "051",
+    "locations": [
+      {
+        "location": "Basement",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "054",
+    "locations": [
+      {
+        "location": "1112",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "065",
+    "locations": [
+      {
+        "location": "1194",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "068",
+    "locations": [
+      {
+        "location": "Across from Sneakers Caf\\xc3\\xa9",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          },
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "070",
+    "locations": [
+      {
+        "location": "1107",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "071",
+    "locations": [
+      {
+        "location": "Exterior Door by lobby 1121",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "074",
+    "locations": [
+      {
+        "location": "0124",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Oceanspray Juice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "076",
+    "locations": [
+      {
+        "location": "Near rm. 0209",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "077",
+    "locations": [
+      {
+        "location": "0127",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "Near rm. 0127",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "078",
+    "locations": [
+      {
+        "location": "0121 (Ground Level Vending)",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "Ground Level Vending 0121",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "Ground Level Vending rm. 0121",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Gatorade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "082",
+    "locations": [
+      {
+        "location": "Room 1322",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "First Floor Loading Dock",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "083",
+    "locations": [
+      {
+        "location": "rm 1125",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "084",
+    "locations": [
+      {
+        "location": "Room 1497",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "Room 1497 - GlassFront Assorted Beverages",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "088",
+    "locations": [
+      {
+        "location": "Room 0102",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "3498",
+        "machines": [
+          {
+            "count": 1,
+            "name": "12 oz. Can Carbonated Soda Drink"
+          }
+        ]
+      },
+      {
+        "location": "Elevator Lobby Room 1498",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 2119",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By. rm 3124",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0132",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 3498",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "In walkway by elevator (1498)",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0102",
+        "machines": [
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0498",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "089",
+    "locations": [
+      {
+        "location": "1126",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 1184",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "090",
+    "locations": [
+      {
+        "location": "By rm. 1145",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 1116",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "091",
+    "locations": [
+      {
+        "location": "By rm. 0215",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 2125",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0203",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "By rm. B0127",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 1125",
+        "machines": [
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 0195",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "092",
+    "locations": [
+      {
+        "location": "By rm. 1104",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "115",
+    "locations": [
+      {
+        "location": "1st fl. Main Enterance",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      },
+      {
+        "location": "3rd Floor/Elevator 3817",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "122",
+    "locations": [
+      {
+        "location": "Vending Bank",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "140",
+    "locations": [
+      {
+        "location": "rm 0118",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "Inside of rm. 0124",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "141",
+    "locations": [
+      {
+        "location": "2sr Flr",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      },
+      {
+        "location": "Ground Floor Alcove",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 1116",
+        "machines": [
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      },
+      {
+        "location": "Ground floor side lobby",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "142",
+    "locations": [
+      {
+        "location": "1495- Vending Bank",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Oceanspray"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "143",
+    "locations": [
+      {
+        "location": "rm 0211",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "145",
+    "locations": [
+      {
+        "location": "By rm. 0103",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 2,
+            "name": "20 oz. Water"
+          },
+          {
+            "count": 1,
+            "name": "GlFrB"
+          }
+        ]
+      },
+      {
+        "location": "rm 0103",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      },
+      {
+        "location": "rm 0001",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "146",
+    "locations": [
+      {
+        "location": "By rm. 1306",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 3303",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "147",
+    "locations": [
+      {
+        "location": "By rm. 0102",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "Inside of rm. 4114",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "162",
+    "locations": [
+      {
+        "location": "By rm. 0112",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "163",
+    "locations": [
+      {
+        "location": "By rm. 0232",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Gatorade"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      },
+      {
+        "location": "By rm. 1232",
+        "machines": [
+          {
+            "count": 2,
+            "name": "Water / Lipton Tea"
+          },
+          {
+            "count": 1,
+            "name": "20oz. Gatorade"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "202",
+    "locations": [
+      {
+        "location": "Outside",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      },
+      {
+        "location": "Outside by front enterance",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "224",
+    "locations": [
+      {
+        "location": "By rm. 2327",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "227",
+    "locations": [
+      {
+        "location": "1104",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "232",
+    "locations": [
+      {
+        "location": "Ground Fl. Entrance (by rm.0138)",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "254",
+    "locations": [
+      {
+        "location": "Ground Floor- Back Lobby",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          },
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "256",
+    "locations": [
+      {
+        "location": "Lobby",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "258",
+    "locations": [
+      {
+        "location": "Ground Floor- Lobby",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          },
+          {
+            "count": 1,
+            "name": "Oceanspray Juice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "259",
+    "locations": [
+      {
+        "location": "Ground Floor- Lobby",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          },
+          {
+            "count": 1,
+            "name": "Oceanspray Juice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "311",
+    "locations": [
+      {
+        "location": "1000",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "338",
+    "locations": [
+      {
+        "location": "1107",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "360",
+    "locations": [
+      {
+        "location": "0601",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "383",
+    "locations": [
+      {
+        "location": "1109",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Oceanspray Juice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "386",
+    "locations": [
+      {
+        "location": "Classroom enterance lobby (by rm. 2527)",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Lipton Tea / 20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "387",
+    "locations": [
+      {
+        "location": "1115",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "rm 2112",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "399",
+    "locations": [
+      {
+        "location": "rm 0192",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "406",
+    "locations": [
+      {
+        "location": "Near rm. 1111",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "417",
+    "locations": [
+      {
+        "location": "By rm. 1210",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "419",
+    "locations": [
+      {
+        "location": "Vending Alcove (1st floor  rm. 1119)",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          },
+          {
+            "count": 1,
+            "name": "Water / Lipton Tea"
+          },
+          {
+            "count": 1,
+            "name": "20oz. Gatorade"
+          }
+        ]
+      },
+      {
+        "location": "1st Floor Vending Alcove  rm 1119",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Water"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "805",
+    "locations": [
+      {
+        "location": "1196",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      },
+      {
+        "location": "Rm. 2101 / Break room",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Soda with Credit Card Reader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "978",
+    "locations": [
+      {
+        "location": "B1 0204",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "building_id": "980",
+    "locations": [
+      {
+        "location": "B3 3240",
+        "machines": [
+          {
+            "count": 1,
+            "name": "20 oz. Carbonated Soda"
+          },
+          {
+            "count": 1,
+            "name": "Oceanspray Juice"
+          }
+        ]
+      },
+      {
+        "location": "B3-2225",
+        "machines": [
+          {
+            "count": 1,
+            "name": "Oceanspray Juice"
+          }
+        ]
+      },
+      {
+        "location": "B3-4225",
+        "machines": [
+          {
+            "count": 2,
+            "name": "20 oz. Carbonated Soda"
+          }
+        ]
+      }
+    ]
+  }
+]
