@@ -1,1 +1,6 @@
 tmp/
+.project
+.pydevproject
+__pycache__/
+*.py[cod]
+*$py.class
