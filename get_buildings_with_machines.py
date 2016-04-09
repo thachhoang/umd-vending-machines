@@ -4,7 +4,7 @@ import json
 
 
 if __name__ == '__main__':
-    with open('machines.json', 'r') as fm, open('buildings.json', 'r') as fb:
+    with open('data/machines.json', 'r') as fm, open('data/buildings.json', 'r') as fb:
         machines = json.load(fm)
         buildings = json.load(fb)
 
@@ -17,5 +17,5 @@ if __name__ == '__main__':
         if m_id in buildings_by_id:
             m.update(buildings_by_id.pop(m_id))
 
-    with open('buildings_with_machines.json', 'w+') as f:
+    with open('data/buildings_with_machines.json', 'w+') as f:
         json.dump(machines, f, sort_keys=True, indent=2)

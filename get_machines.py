@@ -56,5 +56,5 @@ def get_machines():
     return buildings
 
 if __name__ == '__main__':
-    with open('machines.json', 'w+') as f:
+    with open('data/machines.json', 'w+') as f:
         json.dump(get_machines(), f, sort_keys=True, indent=2)
