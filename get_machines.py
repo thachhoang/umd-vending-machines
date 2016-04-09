@@ -15,12 +15,15 @@ def get_machines():
     buildings = []
 
     # Get list of buildings with machines on main page
-    building_ids = sorted(re.findall(r'<a href="vending_list.php\?BldgNum=(\d+)">', main_html))
-    for building_id in building_ids:
+    building_ids = sorted(re.findall(r'<a href="vending_list.php\?BldgNum=(\d+)">(.*?) \(\d+\)</a>', main_html))
+    for building_id, building_name in building_ids:
         building_html = str(urllib.request.urlopen(machine_url + '?BldgNum=' + building_id).read())
         print(building_id)
 
-        building = {'building_id': building_id}
+        building = {
+            'building_id': building_id,
+            'name': building_name,
+        }
         buildings.append(building)
 
         parsed_html = BeautifulSoup(building_html, 'html.parser')

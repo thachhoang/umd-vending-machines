@@ -11,7 +11,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Service Building"
   },
   {
     "building_id": "010",
@@ -29,7 +30,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Patuxent Building"
   },
   {
     "building_id": "017",
@@ -43,7 +45,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Cecil Hall"
   },
   {
     "building_id": "034",
@@ -70,7 +73,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Jimenez Hall"
   },
   {
     "building_id": "035",
@@ -92,7 +96,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "McKeldin Library"
   },
   {
     "building_id": "036",
@@ -119,7 +124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Plant Sciences Building"
   },
   {
     "building_id": "038",
@@ -151,7 +157,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "LeFrak Hall"
   },
   {
     "building_id": "039",
@@ -165,7 +172,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Van Munching Hall"
   },
   {
     "building_id": "042",
@@ -200,7 +208,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Tydings Hall"
   },
   {
     "building_id": "044",
@@ -223,7 +232,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Skinner Building"
   },
   {
     "building_id": "046",
@@ -246,7 +256,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Marie Mount Hall"
   },
   {
     "building_id": "048",
@@ -273,7 +284,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Francis Scott Key Hall"
   },
   {
     "building_id": "051",
@@ -287,7 +299,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Worcester Hall"
   },
   {
     "building_id": "054",
@@ -301,7 +314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Preinkert Field House"
   },
   {
     "building_id": "065",
@@ -315,7 +329,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Carroll Hall"
   },
   {
     "building_id": "068",
@@ -333,7 +348,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Eppley Recreation Center"
   },
   {
     "building_id": "070",
@@ -347,7 +363,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Caroline Hall"
   },
   {
     "building_id": "071",
@@ -361,7 +378,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Lee Building"
   },
   {
     "building_id": "074",
@@ -375,7 +393,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Holzapfel Hall"
   },
   {
     "building_id": "076",
@@ -389,7 +408,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Symons Hall"
   },
   {
     "building_id": "077",
@@ -412,7 +432,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Main Administration Building"
   },
   {
     "building_id": "078",
@@ -452,7 +473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Reckord Armory"
   },
   {
     "building_id": "082",
@@ -479,7 +501,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "John S. Toll Physics Building"
   },
   {
     "building_id": "083",
@@ -493,7 +516,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "J.M. Patterson Building"
   },
   {
     "building_id": "084",
@@ -516,7 +540,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Mathematics Building"
   },
   {
     "building_id": "088",
@@ -611,7 +636,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Martin Hall"
   },
   {
     "building_id": "089",
@@ -634,7 +660,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Engineering Laboratory Building"
   },
   {
     "building_id": "090",
@@ -657,7 +684,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Chemical & Nuclear Engineering Building"
   },
   {
     "building_id": "091",
@@ -720,7 +748,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Chemistry Building"
   },
   {
     "building_id": "092",
@@ -734,7 +763,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Potomac Building"
   },
   {
     "building_id": "115",
@@ -761,7 +791,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "A.V. Williams Building"
   },
   {
     "building_id": "122",
@@ -779,7 +810,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Cumberland Hall"
   },
   {
     "building_id": "140",
@@ -802,7 +834,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Health Center"
   },
   {
     "building_id": "141",
@@ -847,7 +880,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Tawes Fine Arts Building"
   },
   {
     "building_id": "142",
@@ -865,7 +899,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Animal Sciences Building"
   },
   {
     "building_id": "143",
@@ -883,7 +918,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Benjamin Building"
   },
   {
     "building_id": "145",
@@ -923,7 +959,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Architecture Building"
   },
   {
     "building_id": "146",
@@ -946,7 +983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Art-Sociology Building"
   },
   {
     "building_id": "147",
@@ -973,7 +1011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Hornbake Library"
   },
   {
     "building_id": "162",
@@ -991,7 +1030,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Cole Student Activities Building"
   },
   {
     "building_id": "163",
@@ -1026,7 +1066,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Stamp Student Union"
   },
   {
     "building_id": "202",
@@ -1049,7 +1090,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Parking Garage 2"
   },
   {
     "building_id": "224",
@@ -1067,7 +1109,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Computer and Space Sciences Building"
   },
   {
     "building_id": "227",
@@ -1081,7 +1124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Jull Hall"
   },
   {
     "building_id": "232",
@@ -1099,7 +1143,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Nyumburu Cultural Center"
   },
   {
     "building_id": "254",
@@ -1121,7 +1166,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Elkton Hall"
   },
   {
     "building_id": "256",
@@ -1135,7 +1181,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Ellicott Hall"
   },
   {
     "building_id": "258",
@@ -1157,7 +1204,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Hagerstown Hall"
   },
   {
     "building_id": "259",
@@ -1179,7 +1227,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "La Plata Hall"
   },
   {
     "building_id": "311",
@@ -1193,7 +1242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Elkins"
   },
   {
     "building_id": "338",
@@ -1211,7 +1261,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Chesapeake Building"
   },
   {
     "building_id": "360",
@@ -1225,7 +1276,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Comcast Center"
   },
   {
     "building_id": "383",
@@ -1243,7 +1295,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Physical Distribution Center"
   },
   {
     "building_id": "386",
@@ -1261,7 +1314,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Clarice Smith Performing Arts Center"
   },
   {
     "building_id": "387",
@@ -1284,7 +1338,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Technology Advancement Program Building"
   },
   {
     "building_id": "399",
@@ -1298,7 +1353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Eppley Recreation Center- Associated Areas"
   },
   {
     "building_id": "406",
@@ -1312,7 +1368,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Computer Science Instructional Center"
   },
   {
     "building_id": "417",
@@ -1330,7 +1387,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Knight Hall"
   },
   {
     "building_id": "419",
@@ -1365,7 +1423,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Oakland Hall"
   },
   {
     "building_id": "805",
@@ -1388,7 +1447,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "Patapsco Building"
   },
   {
     "building_id": "978",
@@ -1402,7 +1462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "IBBR - Building 1"
   },
   {
     "building_id": "980",
@@ -1438,6 +1499,7 @@
           }
         ]
       }
-    ]
+    ],
+    "name": "IBBR - Building 3"
   }
 ]
