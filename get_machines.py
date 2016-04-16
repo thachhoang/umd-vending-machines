@@ -1,5 +1,6 @@
 # !/usr/bin/env python3
 
+import argparse
 import json
 import re
 import urllib.request
@@ -7,10 +8,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 
-machine_url = 'http://www.dbs.umd.edu/corp/vending_list.php'
-
-
-def get_machines():
+def get_machines(machine_url):
     main_html = str(urllib.request.urlopen(machine_url).read())
     buildings = []
 
@@ -57,6 +55,73 @@ def get_machines():
 
     return buildings
 
+
+def get_buildings(building_url):
+    data = urllib.request.urlopen(building_url).read().decode('utf8')
+    return json.loads(data)
+
+
 if __name__ == '__main__':
-    with open('data/machines.json', 'w+') as f:
-        json.dump(get_machines(), f, sort_keys=True, indent=2)
+    parser = argparse.ArgumentParser(description='Fetch and process the UMD vending machine locations.')
+    parser.add_argument('-b', action='store_true', help='reload building data')
+    parser.add_argument('-m', action='store_true', help='reload machine data')
+    args = parser.parse_args()
+
+    # Buildings
+    building_file = 'data/buildings.json'
+    if args.b:
+        building_url = 'http://api.umd.io/v0/map/buildings'
+        buildings = get_buildings(building_url)
+        with open(building_file, 'w+') as f:
+            json.dump(buildings, f, sort_keys=True, indent=2)
+        print('Reloaded buildings from ' + building_url)
+    else:
+        with open(building_file, 'r') as f:
+            buildings = json.load(f)
+        print('Using cached buildings at ' + building_file)
+
+    # Machines
+    machine_file = 'data/machines.json'
+    if args.m:
+        machine_url = 'http://www.dbs.umd.edu/corp/vending_list.php'
+        machines = get_machines(machine_url)
+        with open(machine_file, 'w+') as f:
+            json.dump(machines, f, sort_keys=True, indent=2)
+        print('Reloaded machines from ' + machine_url)
+    else:
+        with open(machine_file, 'r') as f:
+            machines = json.load(f)
+        print('Using cached machines at ' + machine_file)
+
+    # Combine!
+    buildings_by_id = {}
+    for b in buildings:
+        buildings_by_id[b['building_id']] = b
+
+    geodata = []
+    for m in machines:
+        m_id = m['building_id']
+        if m_id in buildings_by_id:
+            m.update(buildings_by_id.pop(m_id))
+        feature = {
+            'type': 'Feature',
+            'properties': m,
+        }
+        if 'lat' in m and 'lng' in m:
+            feature.update({
+                'geometry': {
+                    'type': 'Point',
+                    'coordinates': [
+                        float(m['lng']),
+                        float(m['lat']),
+                    ],
+                },
+            })
+            del m['lng']
+            del m['lat']
+        geodata.append(feature)
+
+    result_file = 'data/buildings_with_machines.json'
+    with open(result_file, 'w+') as f:
+        json.dump(geodata, f, sort_keys=True, indent=2)
+    print('Result: ' + result_file)
