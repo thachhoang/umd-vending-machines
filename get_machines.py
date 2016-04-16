@@ -1,7 +1,9 @@
 # !/usr/bin/env python3
 
 import argparse
+from datetime import timezone, datetime
 import json
+import os
 import re
 import urllib.request
 
@@ -69,11 +71,11 @@ if __name__ == '__main__':
 
     # Buildings
     building_file = 'data/buildings.json'
-    if args.b:
+    if args.b or not os.path.isfile(building_file):
         building_url = 'http://api.umd.io/v0/map/buildings'
         buildings = get_buildings(building_url)
         with open(building_file, 'w+') as f:
-            json.dump(buildings, f, sort_keys=True, indent=2)
+            json.dump(buildings, f, sort_keys=True, indent=4)
         print('Reloaded buildings from ' + building_url)
     else:
         with open(building_file, 'r') as f:
@@ -82,7 +84,7 @@ if __name__ == '__main__':
 
     # Machines
     machine_file = 'data/machines.json'
-    if args.m:
+    if args.m or not os.path.isfile(machine_file):
         machine_url = 'http://www.dbs.umd.edu/corp/vending_list.php'
         machines = get_machines(machine_url)
         with open(machine_file, 'w+') as f:
@@ -121,7 +123,11 @@ if __name__ == '__main__':
             del m['lat']
         geodata.append(feature)
 
+    result = {
+        'generated_date': datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
+        'data': geodata,
+    }
     result_file = 'data/buildings_with_machines.json'
     with open(result_file, 'w+') as f:
-        json.dump(geodata, f, sort_keys=True, indent=2)
+        json.dump(result, f, sort_keys=True, indent=2)
     print('Result: ' + result_file)
