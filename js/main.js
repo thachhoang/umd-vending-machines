@@ -3,6 +3,7 @@
     $.getJSON("data/buildings_with_machines.json", function(data) {
         var attribution = '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors';
         attribution += ' | <a href="//dbs.umd.edu/corp/vending_list.php">dbs.umd.edu</a>, last fetched ' + data.generated_date;
+        attribution += ' | <a href="//github.com/thachhoang/umd-vending-machines">code</a>';
         var map = L.map('map').setView([38.9897623, -76.9447152], 16);
         var baseLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
             maxZoom: 18,
