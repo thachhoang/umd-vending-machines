@@ -69,10 +69,12 @@ if __name__ == '__main__':
     parser.add_argument('-m', action='store_true', help='reload machine data')
     args = parser.parse_args()
 
+    building_url = 'http://api.umd.io/v0/map/buildings'
+    machine_url = 'http://www.dbs.umd.edu/corp/vending_list.php'
+
     # Buildings
     building_file = 'data/buildings.json'
     if args.b or not os.path.isfile(building_file):
-        building_url = 'http://api.umd.io/v0/map/buildings'
         buildings = get_buildings(building_url)
         with open(building_file, 'w+') as f:
             json.dump(buildings, f, sort_keys=True, indent=4)
@@ -85,7 +87,6 @@ if __name__ == '__main__':
     # Machines
     machine_file = 'data/machines.json'
     if args.m or not os.path.isfile(machine_file):
-        machine_url = 'http://www.dbs.umd.edu/corp/vending_list.php'
         machines = get_machines(machine_url)
         with open(machine_file, 'w+') as f:
             json.dump(machines, f, sort_keys=True, indent=2)
@@ -126,6 +127,8 @@ if __name__ == '__main__':
     result = {
         'generated_date': datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         'data': geodata,
+        'machine_url': machine_url,
+        'building_url': building_url,
     }
     result_file = 'data/buildings_with_machines.json'
     with open(result_file, 'w+') as f:
